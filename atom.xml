@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Eric Jain&#39;s Blog</title>
   
-  <link href="/blog/atom.xml" rel="self"/>
+  <link href="/atom.xml" rel="self"/>
   
-  <link href="https://ejain.github.io/"/>
+  <link href="http://eric.jain.name/"/>
   <updated>2017-02-27T01:30:40.937Z</updated>
-  <id>https://ejain.github.io/</id>
+  <id>http://eric.jain.name/</id>
   
   <author>
     <name>Eric Jain</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Flights in 2015</title>
-    <link href="https://ejain.github.io/2016/01/01/flights/"/>
-    <id>https://ejain.github.io/2016/01/01/flights/</id>
+    <link href="http://eric.jain.name/2016/01/01/flights/"/>
+    <id>http://eric.jain.name/2016/01/01/flights/</id>
     <published>2016-01-01T08:00:00.000Z</published>
     <updated>2017-02-27T01:30:40.937Z</updated>
     
@@ -33,14 +33,14 @@
     </summary>
     
     
-      <category term="Quantified Self" scheme="https://ejain.github.io/tags/quantified-self/"/>
+      <category term="Quantified Self" scheme="http://eric.jain.name/tags/quantified-self/"/>
     
   </entry>
   
   <entry>
     <title>Outdoor Trips in 2014</title>
-    <link href="https://ejain.github.io/2015/01/01/outdoor-trips/"/>
-    <id>https://ejain.github.io/2015/01/01/outdoor-trips/</id>
+    <link href="http://eric.jain.name/2015/01/01/outdoor-trips/"/>
+    <id>http://eric.jain.name/2015/01/01/outdoor-trips/</id>
     <published>2015-01-01T08:00:00.000Z</published>
     <updated>2017-02-25T06:21:35.186Z</updated>
     
@@ -56,14 +56,14 @@
     </summary>
     
     
-      <category term="Quantified Self" scheme="https://ejain.github.io/tags/quantified-self/"/>
+      <category term="Quantified Self" scheme="http://eric.jain.name/tags/quantified-self/"/>
     
   </entry>
   
   <entry>
     <title>Tableau &amp; Quantified Self</title>
-    <link href="https://ejain.github.io/2014/05/24/tableau-quantified-self/"/>
-    <id>https://ejain.github.io/2014/05/24/tableau-quantified-self/</id>
+    <link href="http://eric.jain.name/2014/05/24/tableau-quantified-self/"/>
+    <id>http://eric.jain.name/2014/05/24/tableau-quantified-self/</id>
     <published>2014-05-24T07:00:00.000Z</published>
     <updated>2017-02-25T06:20:19.808Z</updated>
     
@@ -84,14 +84,14 @@
     </summary>
     
     
-      <category term="Quantified Self" scheme="https://ejain.github.io/tags/quantified-self/"/>
+      <category term="Quantified Self" scheme="http://eric.jain.name/tags/quantified-self/"/>
     
   </entry>
   
   <entry>
     <title>EuroSeattle Startup Weekend</title>
-    <link href="https://ejain.github.io/2014/01/29/euroseattle-startup-weekend/"/>
-    <id>https://ejain.github.io/2014/01/29/euroseattle-startup-weekend/</id>
+    <link href="http://eric.jain.name/2014/01/29/euroseattle-startup-weekend/"/>
+    <id>http://eric.jain.name/2014/01/29/euroseattle-startup-weekend/</id>
     <published>2014-01-29T08:00:00.000Z</published>
     <updated>2017-02-28T08:18:03.015Z</updated>
     
@@ -110,14 +110,14 @@
     </summary>
     
     
-      <category term="Programming" scheme="https://ejain.github.io/tags/programming/"/>
+      <category term="Programming" scheme="http://eric.jain.name/tags/programming/"/>
     
   </entry>
   
   <entry>
     <title>API Prayer</title>
-    <link href="https://ejain.github.io/2013/10/11/api-prayer/"/>
-    <id>https://ejain.github.io/2013/10/11/api-prayer/</id>
+    <link href="http://eric.jain.name/2013/10/11/api-prayer/"/>
+    <id>http://eric.jain.name/2013/10/11/api-prayer/</id>
     <published>2013-10-11T07:00:00.000Z</published>
     <updated>2017-02-28T08:18:03.002Z</updated>
     
@@ -147,16 +147,16 @@
     </summary>
     
     
-      <category term="Humor" scheme="https://ejain.github.io/tags/humor/"/>
+      <category term="Humor" scheme="http://eric.jain.name/tags/humor/"/>
     
-      <category term="Programming" scheme="https://ejain.github.io/tags/programming/"/>
+      <category term="Programming" scheme="http://eric.jain.name/tags/programming/"/>
     
   </entry>
   
   <entry>
     <title>Lenovo Thinkpad T431s</title>
-    <link href="https://ejain.github.io/2013/07/05/lenovo-thinkpad-t431s/"/>
-    <id>https://ejain.github.io/2013/07/05/lenovo-thinkpad-t431s/</id>
+    <link href="http://eric.jain.name/2013/07/05/lenovo-thinkpad-t431s/"/>
+    <id>http://eric.jain.name/2013/07/05/lenovo-thinkpad-t431s/</id>
     <published>2013-07-05T07:00:00.000Z</published>
     <updated>2017-02-28T08:18:02.991Z</updated>
     
@@ -182,16 +182,16 @@
     </summary>
     
     
-      <category term="Programming" scheme="https://ejain.github.io/tags/programming/"/>
+      <category term="Programming" scheme="http://eric.jain.name/tags/programming/"/>
     
-      <category term="Review" scheme="https://ejain.github.io/tags/review/"/>
+      <category term="Review" scheme="http://eric.jain.name/tags/review/"/>
     
   </entry>
   
   <entry>
     <title>California Roadtrip</title>
-    <link href="https://ejain.github.io/2012/03/24/california-roadtrip/"/>
-    <id>https://ejain.github.io/2012/03/24/california-roadtrip/</id>
+    <link href="http://eric.jain.name/2012/03/24/california-roadtrip/"/>
+    <id>http://eric.jain.name/2012/03/24/california-roadtrip/</id>
     <published>2012-03-24T07:00:00.000Z</published>
     <updated>2017-02-25T06:52:50.658Z</updated>
     
@@ -206,14 +206,14 @@
     </summary>
     
     
-      <category term="Travel" scheme="https://ejain.github.io/tags/travel/"/>
+      <category term="Travel" scheme="http://eric.jain.name/tags/travel/"/>
     
   </entry>
   
   <entry>
     <title>OSGi and Eclipse RCP Talk</title>
-    <link href="https://ejain.github.io/2011/11/17/osgi-and-eclipse-rcp-talk/"/>
-    <id>https://ejain.github.io/2011/11/17/osgi-and-eclipse-rcp-talk/</id>
+    <link href="http://eric.jain.name/2011/11/17/osgi-and-eclipse-rcp-talk/"/>
+    <id>http://eric.jain.name/2011/11/17/osgi-and-eclipse-rcp-talk/</id>
     <published>2011-11-17T08:00:00.000Z</published>
     <updated>2017-02-28T08:18:02.976Z</updated>
     
@@ -228,16 +228,16 @@
     </summary>
     
     
-      <category term="Life Science" scheme="https://ejain.github.io/tags/life-science/"/>
+      <category term="Life Science" scheme="http://eric.jain.name/tags/life-science/"/>
     
-      <category term="Programming" scheme="https://ejain.github.io/tags/programming/"/>
+      <category term="Programming" scheme="http://eric.jain.name/tags/programming/"/>
     
   </entry>
   
   <entry>
     <title>One Year&#39;s Tracklogs</title>
-    <link href="https://ejain.github.io/2010/12/12/one-years-tracklogs/"/>
-    <id>https://ejain.github.io/2010/12/12/one-years-tracklogs/</id>
+    <link href="http://eric.jain.name/2010/12/12/one-years-tracklogs/"/>
+    <id>http://eric.jain.name/2010/12/12/one-years-tracklogs/</id>
     <published>2010-12-12T08:00:00.000Z</published>
     <updated>2017-02-27T08:39:24.938Z</updated>
     
@@ -256,14 +256,14 @@
     </summary>
     
     
-      <category term="Quantified Self" scheme="https://ejain.github.io/tags/quantified-self/"/>
+      <category term="Quantified Self" scheme="http://eric.jain.name/tags/quantified-self/"/>
     
   </entry>
   
   <entry>
     <title>Kauai</title>
-    <link href="https://ejain.github.io/2010/04/16/kauai/"/>
-    <id>https://ejain.github.io/2010/04/16/kauai/</id>
+    <link href="http://eric.jain.name/2010/04/16/kauai/"/>
+    <id>http://eric.jain.name/2010/04/16/kauai/</id>
     <published>2010-04-16T07:00:00.000Z</published>
     <updated>2017-02-28T06:39:27.410Z</updated>
     
@@ -397,14 +397,14 @@
     </summary>
     
     
-      <category term="Travel" scheme="https://ejain.github.io/tags/travel/"/>
+      <category term="Travel" scheme="http://eric.jain.name/tags/travel/"/>
     
   </entry>
   
   <entry>
     <title>Hosting Applets in Google Docs</title>
-    <link href="https://ejain.github.io/2010/01/22/hosting-applets-in-google-docs/"/>
-    <id>https://ejain.github.io/2010/01/22/hosting-applets-in-google-docs/</id>
+    <link href="http://eric.jain.name/2010/01/22/hosting-applets-in-google-docs/"/>
+    <id>http://eric.jain.name/2010/01/22/hosting-applets-in-google-docs/</id>
     <published>2010-01-22T08:00:00.000Z</published>
     <updated>2017-02-28T08:18:02.961Z</updated>
     
@@ -421,14 +421,14 @@
     </summary>
     
     
-      <category term="Programming" scheme="https://ejain.github.io/tags/programming/"/>
+      <category term="Programming" scheme="http://eric.jain.name/tags/programming/"/>
     
   </entry>
   
   <entry>
     <title>Sharing Tracklogs</title>
-    <link href="https://ejain.github.io/2009/11/12/sharing-tracklogs/"/>
-    <id>https://ejain.github.io/2009/11/12/sharing-tracklogs/</id>
+    <link href="http://eric.jain.name/2009/11/12/sharing-tracklogs/"/>
+    <id>http://eric.jain.name/2009/11/12/sharing-tracklogs/</id>
     <published>2009-11-12T08:00:00.000Z</published>
     <updated>2017-02-27T08:12:51.507Z</updated>
     
@@ -477,14 +477,14 @@
     </summary>
     
     
-      <category term="Quantified Self" scheme="https://ejain.github.io/tags/quantified-self/"/>
+      <category term="Quantified Self" scheme="http://eric.jain.name/tags/quantified-self/"/>
     
   </entry>
   
   <entry>
     <title>GTAC 2008</title>
-    <link href="https://ejain.github.io/2008/10/23/gtac-2008/"/>
-    <id>https://ejain.github.io/2008/10/23/gtac-2008/</id>
+    <link href="http://eric.jain.name/2008/10/23/gtac-2008/"/>
+    <id>http://eric.jain.name/2008/10/23/gtac-2008/</id>
     <published>2008-10-23T07:00:00.000Z</published>
     <updated>2017-02-28T08:18:02.947Z</updated>
     
@@ -505,14 +505,14 @@
     </summary>
     
     
-      <category term="Programming" scheme="https://ejain.github.io/tags/programming/"/>
+      <category term="Programming" scheme="http://eric.jain.name/tags/programming/"/>
     
   </entry>
   
   <entry>
     <title>Seattle by Land, Water and Air</title>
-    <link href="https://ejain.github.io/2008/08/05/seattle-land-water-air/"/>
-    <id>https://ejain.github.io/2008/08/05/seattle-land-water-air/</id>
+    <link href="http://eric.jain.name/2008/08/05/seattle-land-water-air/"/>
+    <id>http://eric.jain.name/2008/08/05/seattle-land-water-air/</id>
     <published>2008-08-05T07:00:00.000Z</published>
     <updated>2017-02-28T07:39:22.224Z</updated>
     
@@ -538,14 +538,14 @@
     </summary>
     
     
-      <category term="Travel" scheme="https://ejain.github.io/tags/travel/"/>
+      <category term="Travel" scheme="http://eric.jain.name/tags/travel/"/>
     
   </entry>
   
   <entry>
     <title>Edward Tufte&#39;s Presenting Data and Information Course</title>
-    <link href="https://ejain.github.io/2008/07/18/edward-tufte-presenting-data-and-information-course/"/>
-    <id>https://ejain.github.io/2008/07/18/edward-tufte-presenting-data-and-information-course/</id>
+    <link href="http://eric.jain.name/2008/07/18/edward-tufte-presenting-data-and-information-course/"/>
+    <id>http://eric.jain.name/2008/07/18/edward-tufte-presenting-data-and-information-course/</id>
     <published>2008-07-18T07:00:00.000Z</published>
     <updated>2017-02-28T08:18:02.927Z</updated>
     
@@ -583,14 +583,14 @@
     </summary>
     
     
-      <category term="Programming" scheme="https://ejain.github.io/tags/programming/"/>
+      <category term="Programming" scheme="http://eric.jain.name/tags/programming/"/>
     
   </entry>
   
   <entry>
     <title>Manning Books in Safari Books</title>
-    <link href="https://ejain.github.io/2008/06/19/manning-books-in-safari-books/"/>
-    <id>https://ejain.github.io/2008/06/19/manning-books-in-safari-books/</id>
+    <link href="http://eric.jain.name/2008/06/19/manning-books-in-safari-books/"/>
+    <id>http://eric.jain.name/2008/06/19/manning-books-in-safari-books/</id>
     <published>2008-06-19T07:00:00.000Z</published>
     <updated>2017-02-28T08:18:02.914Z</updated>
     
@@ -606,14 +606,14 @@
     </summary>
     
     
-      <category term="Programming" scheme="https://ejain.github.io/tags/programming/"/>
+      <category term="Programming" scheme="http://eric.jain.name/tags/programming/"/>
     
   </entry>
   
   <entry>
     <title>No Fluff Just Stuff</title>
-    <link href="https://ejain.github.io/2008/04/20/no-fluff-just-stuff/"/>
-    <id>https://ejain.github.io/2008/04/20/no-fluff-just-stuff/</id>
+    <link href="http://eric.jain.name/2008/04/20/no-fluff-just-stuff/"/>
+    <id>http://eric.jain.name/2008/04/20/no-fluff-just-stuff/</id>
     <published>2008-04-20T07:00:00.000Z</published>
     <updated>2017-02-28T08:18:02.902Z</updated>
     
@@ -660,14 +660,14 @@
     </summary>
     
     
-      <category term="Programming" scheme="https://ejain.github.io/tags/programming/"/>
+      <category term="Programming" scheme="http://eric.jain.name/tags/programming/"/>
     
   </entry>
   
   <entry>
     <title>Using Java to Read Excel Files</title>
-    <link href="https://ejain.github.io/2008/02/14/java-excel/"/>
-    <id>https://ejain.github.io/2008/02/14/java-excel/</id>
+    <link href="http://eric.jain.name/2008/02/14/java-excel/"/>
+    <id>http://eric.jain.name/2008/02/14/java-excel/</id>
     <published>2008-02-14T08:00:00.000Z</published>
     <updated>2017-02-28T08:18:02.885Z</updated>
     
@@ -716,15 +716,15 @@ for (int i = 0; i &lt; sheet.getRows(); ++i) {
     
     </summary>
     
-      <category term="Programming" scheme="https://ejain.github.io/categories/Programming/"/>
+      <category term="Programming" scheme="http://eric.jain.name/categories/Programming/"/>
     
     
   </entry>
   
   <entry>
     <title>Blist</title>
-    <link href="https://ejain.github.io/2008/02/12/blist/"/>
-    <id>https://ejain.github.io/2008/02/12/blist/</id>
+    <link href="http://eric.jain.name/2008/02/12/blist/"/>
+    <id>http://eric.jain.name/2008/02/12/blist/</id>
     <published>2008-02-12T08:00:00.000Z</published>
     <updated>2017-02-28T08:18:02.871Z</updated>
     
@@ -768,16 +768,16 @@ for (int i = 0; i &lt; sheet.getRows(); ++i) {
     </summary>
     
     
-      <category term="Programming" scheme="https://ejain.github.io/tags/programming/"/>
+      <category term="Programming" scheme="http://eric.jain.name/tags/programming/"/>
     
-      <category term="Review" scheme="https://ejain.github.io/tags/review/"/>
+      <category term="Review" scheme="http://eric.jain.name/tags/review/"/>
     
   </entry>
   
   <entry>
     <title>Amos Bairoch Action Figure</title>
-    <link href="https://ejain.github.io/2007/12/04/amos-bairoch-action-figure/"/>
-    <id>https://ejain.github.io/2007/12/04/amos-bairoch-action-figure/</id>
+    <link href="http://eric.jain.name/2007/12/04/amos-bairoch-action-figure/"/>
+    <id>http://eric.jain.name/2007/12/04/amos-bairoch-action-figure/</id>
     <published>2007-12-04T08:00:00.000Z</published>
     <updated>2017-02-27T08:15:20.460Z</updated>
     
@@ -846,9 +846,9 @@ for (int i = 0; i &lt; sheet.getRows(); ++i) {
     </summary>
     
     
-      <category term="Humor" scheme="https://ejain.github.io/tags/humor/"/>
+      <category term="Humor" scheme="http://eric.jain.name/tags/humor/"/>
     
-      <category term="Life Science" scheme="https://ejain.github.io/tags/life-science/"/>
+      <category term="Life Science" scheme="http://eric.jain.name/tags/life-science/"/>
     
   </entry>
   
