@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://eric.jain.name/2017/03/05/vehicle-equipment/</loc>
+    
+    <lastmod>2017-03-05T20:56:17.245Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://eric.jain.name/2007/01/16/fastest-java-virtual-machine/</loc>
+    
+    <lastmod>2017-02-28T09:53:49.366Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://eric.jain.name/2007/07/30/ismb-2007/</loc>
+    
+    <lastmod>2017-02-28T09:50:22.114Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://eric.jain.name/2007/01/22/clustering-kiwis/</loc>
+    
+    <lastmod>2017-02-28T09:45:59.382Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://eric.jain.name/2007/06/06/source-code-visualization/</loc>
     
     <lastmod>2017-02-28T09:32:17.432Z</lastmod>
@@ -429,20 +457,6 @@
   </url>
   
   <url>
-    <loc>http://eric.jain.name/2007/01/16/fastest-java-virtual-machine/</loc>
-    
-    <lastmod>2017-02-26T06:59:18.551Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://eric.jain.name/2007/01/22/clustering-kiwis/</loc>
-    
-    <lastmod>2017-02-26T06:58:58.826Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://eric.jain.name/2007/04/01/new-uniprot-theme/</loc>
     
     <lastmod>2017-02-26T06:56:35.017Z</lastmod>
@@ -453,13 +467,6 @@
     <loc>http://eric.jain.name/2007/06/07/compare-ontology-versions/</loc>
     
     <lastmod>2017-02-26T06:54:12.127Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://eric.jain.name/2007/07/30/ismb-2007/</loc>
-    
-    <lastmod>2017-02-26T06:51:34.765Z</lastmod>
     
   </url>
   
