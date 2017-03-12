@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://eric.jain.name/2017/02/24/hexo/</loc>
+    
+    <lastmod>2017-03-12T06:44:28.740Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://eric.jain.name/2000/11/01/madagascar/</loc>
+    
+    <lastmod>2017-03-11T19:56:54.773Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://eric.jain.name/2016/09/17/subaru-crosstrek/</loc>
     
     <lastmod>2017-03-06T02:40:36.237Z</lastmod>
@@ -250,13 +264,6 @@
     <loc>http://eric.jain.name/2001/03/01/india/</loc>
     
     <lastmod>2017-02-28T07:10:38.030Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://eric.jain.name/2000/11/01/madagascar/</loc>
-    
-    <lastmod>2017-02-28T07:08:53.013Z</lastmod>
     
   </url>
   

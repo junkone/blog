@@ -105,6 +105,36 @@
   </entry>
   
   <entry>
+    <title>Hexo</title>
+    <link href="http://eric.jain.name/2017/02/24/hexo/"/>
+    <id>http://eric.jain.name/2017/02/24/hexo/</id>
+    <published>2017-02-24T08:00:00.000Z</published>
+    <updated>2017-03-12T06:44:28.740Z</updated>
+    
+    <content type="html"><![CDATA[<p>This blog started out on <a href="https://en.wikipedia.org/wiki/Yahoo!_GeoCities">GeoCities</a> sometime during the <a href="https://en.wikipedia.org/wiki/Dot-com_bubble">dot-com bubble</a>. Somewhere along the way I moved it to a proper hosting provider (first <a href="guest-hosting.ch">guest-hosting.ch</a>, then <a href="https://www.rackspace.com/en-us">Rackspace</a>), acquired a <a href="https://en.wikipedia.org/wiki/.name">.name</a> domain, and set up a custom <a href="https://wordpress.org/">WordPress</a> installation.</p>
+<p>This setup was flexible, but meant I had to stay on top of security updates for WordPress (until automatic updates were introduced), remember to update the packages installed on the server (Ubuntu) once in a while, and deal with occasional comment spam. Also, page load times weren’t great (even with various caching plugins), since the site was being served from a low-end virtual server, which nevertheless cost me about $10 a month.</p>
+<p>This made going back to serving simple, static files an attractive option. <a href="https://pages.github.com/">GitHub Pages</a> was an obvious choice for hosting the site, since I already had several projects on GitHub. I’d also need a <em>static site generator</em> to create the web pages from the <a href="https://en.wikipedia.org/wiki/Markdown">Markdown</a> files I exported from WordPress:</p>
+<ul>
+<li><a href="https://jekyllrb.com/">Jekyll</a> would have been the default choice, since GitHub Pages has built-in support for Jekyll. But I wanted to be able to build the site on my own machine as well, and that turned out to be painful to set up, and very slow.</li>
+<li><a href="https://gohugo.io/">Hugo</a> appeared to have most of the same features, and was much faster.</li>
+<li><a href="https://hexo.io/">Hexo</a> seemed fast enough, and easier for me to customize than Hugo.</li>
+</ul>
+<p>I ended up creating a custom theme for Hexo based on <a href="https://github.com/klugjo/hexo-theme-clean-blog">this theme</a>.</p>
+<p><img src="blog.png" alt="Screenshot"></p>
+<p>Since switching to serving static pages, I no longer need to worry about security updates. Pages are served fast (<a href="https://uptimerobot.com/">UptimeRobot</a> reports response times of well under 100ms). I do miss having a bit more control (like being able to change the cache headers), but so far so good…</p>
+<p>You can see the source code for this site <a href="https://github.com/ejain/blog/">here</a> (the source itself is in the <code>master</code> branch, and the generated pages in the <code>gh-pages</code> branch).</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;This blog started out on &lt;a href=&quot;https://en.wikipedia.org/wiki/Yahoo!_GeoCities&quot;&gt;GeoCities&lt;/a&gt; sometime during the &lt;a href=&quot;https://en.w
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Smoothies</title>
     <link href="http://eric.jain.name/2017/01/06/smoothies/"/>
     <id>http://eric.jain.name/2017/01/06/smoothies/</id>
@@ -772,60 +802,6 @@
     <summary type="html">
     
       &lt;p&gt;Over the last few days several books from &lt;a href=&quot;http://www.manning.com/&quot;&gt;Manning Publications&lt;/a&gt; appear to have been added to &lt;a href
-    
-    </summary>
-    
-    
-      <category term="Programming" scheme="http://eric.jain.name/tags/programming/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>No Fluff Just Stuff</title>
-    <link href="http://eric.jain.name/2008/04/20/no-fluff-just-stuff/"/>
-    <id>http://eric.jain.name/2008/04/20/no-fluff-just-stuff/</id>
-    <published>2008-04-20T07:00:00.000Z</published>
-    <updated>2017-02-28T08:18:02.902Z</updated>
-    
-    <content type="html"><![CDATA[<p>Spent this weekend at the <a href="https://nofluffjuststuff.com/conference/seattle/2008/04/home">Spring 2008 Pacific Northwest Software Symposium</a>. Here are my notes (trimmed down to whatever I felt was new &amp; noteworthy to me) and some general comments about the event.</p>
-<h3 id="Sessions"><a href="#Sessions" class="headerlink" title="Sessions"></a>Sessions</h3><p>These are the sessions I attended:</p>
-<ul>
-<li>TestNG with Code Coverage (Howard Lewis Ship)</li>
-<li>Groovy: Metaprogramming (Scott Davis)</li>
-<li>Professional Java UI Development with Eclipse RCP (Brian Sam-Bodden)</li>
-<li>The Busy Java Developers Guide to Concurrency (Ted Neward)</li>
-<li>Code Metrics &amp; Analysis for Agile Projects (Neal Ford)</li>
-<li>Building Web Apps with Spring OSGi (Craig Walls)</li>
-<li>The Busy Developer’s Guide to Debugging (Ted Neward)</li>
-<li>The Busy Developer’s Guide to Monitoring (Ted Neward)</li>
-<li>The Busy Developer’s Guide to Scala (Ted Neward)</li>
-<li>The Busy Developer’s Guide to Hacking on the JVM (Ted Neward)</li>
-</ul>
-<h3 id="Notes"><a href="#Notes" class="headerlink" title="Notes"></a>Notes</h3><p>Test coverage should at least be 85% as there is often a significant number of bugs that are flushed out when you cross that threshold. But if you don’t aim for 100% coverage, there is the risk that you start copping out on testing the most difficult code!</p>
-<p>When using the <a href="http://www.eclemma.org/">EclEmma</a> Eclipse plug-in for gathering code coverage statistics, set up separate build output folders – otherwise unit tests are included in the statistics (even if the unit test source folder is not selected).</p>
-<p><a href="http://cobertura.sourceforge.net/">Cobertura</a> generates somewhat better code coverage statistics than <a href="http://emma.sourceforge.net/">EMMA</a>, but lacks an IDE plug-in.</p>
-<p><a href="http://maven.apache.org/">Maven</a> is a great idea, but using it for your project can be “like living with a dangerous psychopath” – it behaves when showing it to other people, but you never know when it will turn on you….</p>
-<p>Ant has a <a href="http://ant.apache.org/manual/CoreTasks/presetdef.html">presetdef</a> task that allows you to create an alias for a task, and set default attribute values.</p>
-<p><a href="http://testng.org/doc/">TestNG</a> can be used both for unit and for functional tests. Test “groups” can distinguish the two (quirk: can’t directly select all tests that are not in a group). TestNG creates only one instance of each test class. TestNG can run tests in parallel (either at the class or at the method level). There is an @DataProvider mechanism that can return either an array of test data or an iterator. TestNG can run JUnit tests! Can also run Selenium RC from TestNG – check the Tapestry test code.</p>
-<p>New <a href="http://groovy.codehaus.org/">Groovy</a> language features don’t require new Java versions. This may be attractive for people who are stuck with old versions of Java. Groovy even allows addition and modification of all methods at runtime via its <a href="http://groovy.codehaus.org/ExpandoMetaClass">ExpandoMetaClass</a>, e.g. <code>String.metaClass.foo = { -&gt; delegate.toUppercase() }</code></p>
-<p>A JVM may map threads n:m at the OS level.</p>
-<p>Schedulers may do “priority inversion” when a low priority thread holds a lock required by a high priority thread.</p>
-<p>Build-specific deltas are more interesting than absolute numbers when looking at code metrics.</p>
-<p>The “teddy bear” debugging technique: Explain the problem to a teddy bear! Often you’ll realize what the problem is before you need to go bother a colleague…</p>
-<p>Should declare unchecked exceptions.</p>
-<p><code>-XX:OnOutOfMemoryError=cmd</code> sets a command that is run when we run out of memory.</p>
-<p><code>-XX:TraceClassLoading</code> shows where classes are loaded from.</p>
-<p>The <code>extconflict</code> tool (shipped with Sun’s Java) detects duplicate classes in lib/ext.</p>
-<p>Heisenberg principal: Monitoring a system always influences it (e.g. garbage collection activity due to jconsole connection).</p>
-<p>jconsole has a scripting plugin. Also consider using Groovy for scripting tasks.</p>
-<p><a href="http://www.scala-lang.org/">Scala</a> is an (impure) functional language. Functional languages are great for concurrent programming (immutable objects, use of “actors” etc). But Scala won’t be ready for production use this year (or even next year). Get the <a href="http://www.artima.com/shop/forsale">book</a>!</p>
-<p>Reflection can be used to read (and set) private fields, even in core classes such as java.lang.String! Going one step further: We can provide our own String implementation (use <code>-Xbootclasspath=...</code>).</p>
-<h3 id="Comments"><a href="#Comments" class="headerlink" title="Comments"></a>Comments</h3><p>Most of the talks were at a level of detail that if you happened to have read a book on the topic you weren’t likely to learn a lot. Nevertheless you were bound to pick up some useful stuff as (most of) the speakers were clearly not only quite experienced but also great speakers. Ideally you’d have the number one expert on each topic give the talk, but I realize that isn’t practical… Despite the “No Fluff” branding there was a lot of talk about how we all need to be “agile” etc. Nevertheless I think everyone managed to keep their feet on the ground, and in any case their were sufficient technical talks. Not to mention the food and free stuff :-)</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Spent this weekend at the &lt;a href=&quot;https://nofluffjuststuff.com/conference/seattle/2008/04/home&quot;&gt;Spring 2008 Pacific Northwest Software S
     
     </summary>
     
