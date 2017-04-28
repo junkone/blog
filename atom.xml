@@ -180,38 +180,6 @@
   </entry>
   
   <entry>
-    <title>Smoothies</title>
-    <link href="http://eric.jain.name/2017/01/06/smoothies/"/>
-    <id>http://eric.jain.name/2017/01/06/smoothies/</id>
-    <published>2017-01-06T08:00:00.000Z</published>
-    <updated>2017-03-05T23:29:53.898Z</updated>
-    
-    <content type="html"><![CDATA[<p>Upgraded my breakfast from cereal with yoghurt to “smoothie bowls” last year. After a lot of experimenting, here’s what I’ve settled on (for now):</p>
-<p><img src="ingredients.jpg" alt=""></p>
-<ol>
-<li>1 cup yoghurt</li>
-<li>1 tsp spirulina</li>
-<li>1 tsp chia seeds</li>
-<li>2 tsp golden flaxseed meal</li>
-<li>1 cup frozen fruit (mango, pineapple, strawberry, caranberry, blueberry, banana)</li>
-<li>1 leaf collard green and lacinato kale</li>
-</ol>
-<p>I <a href="https://www.nutribulletpro.com/">blend this</a> for just under a minute, sprinkle some granola on top, and this is the result:</p>
-<p><img src="bowl.jpg" alt=""></p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Upgraded my breakfast from cereal with yoghurt to “smoothie bowls” last year. After a lot of experimenting, here’s what I’ve settled on (
-    
-    </summary>
-    
-    
-      <category term="Recipe" scheme="http://eric.jain.name/tags/recipe/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Protein Shakes</title>
     <link href="http://eric.jain.name/2017/01/06/protein-shakes/"/>
     <id>http://eric.jain.name/2017/01/06/protein-shakes/</id>
@@ -237,6 +205,38 @@
 &lt;p&gt;&lt;img src=&quot;ingredients.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;1 cup milk (or ran
+    
+    </summary>
+    
+    
+      <category term="Recipe" scheme="http://eric.jain.name/tags/recipe/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Smoothies</title>
+    <link href="http://eric.jain.name/2017/01/06/smoothies/"/>
+    <id>http://eric.jain.name/2017/01/06/smoothies/</id>
+    <published>2017-01-06T08:00:00.000Z</published>
+    <updated>2017-03-05T23:29:53.898Z</updated>
+    
+    <content type="html"><![CDATA[<p>Upgraded my breakfast from cereal with yoghurt to “smoothie bowls” last year. After a lot of experimenting, here’s what I’ve settled on (for now):</p>
+<p><img src="ingredients.jpg" alt=""></p>
+<ol>
+<li>1 cup yoghurt</li>
+<li>1 tsp spirulina</li>
+<li>1 tsp chia seeds</li>
+<li>2 tsp golden flaxseed meal</li>
+<li>1 cup frozen fruit (mango, pineapple, strawberry, caranberry, blueberry, banana)</li>
+<li>1 leaf collard green and lacinato kale</li>
+</ol>
+<p>I <a href="https://www.nutribulletpro.com/">blend this</a> for just under a minute, sprinkle some granola on top, and this is the result:</p>
+<p><img src="bowl.jpg" alt=""></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Upgraded my breakfast from cereal with yoghurt to “smoothie bowls” last year. After a lot of experimenting, here’s what I’ve settled on (
     
     </summary>
     
