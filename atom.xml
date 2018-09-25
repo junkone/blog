@@ -2,10 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Eric Jain&#39;s Blog</title>
   
+  
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://eric.jain.name/"/>
-  <updated>2017-10-29T21:33:20.981Z</updated>
+  <updated>2018-09-25T04:14:08.535Z</updated>
   <id>http://eric.jain.name/</id>
   
   <author>
@@ -16,21 +17,48 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Panna Cotta</title>
+    <link href="http://eric.jain.name/2018/09/24/panna-cotta/"/>
+    <id>http://eric.jain.name/2018/09/24/panna-cotta/</id>
+    <published>2018-09-24T07:00:00.000Z</published>
+    <updated>2018-09-25T04:14:08.535Z</updated>
+    
+    <content type="html"><![CDATA[<p>A fancy-looking desert that is quick and simple to prepare… Serves 4.</p><p><img src="panna-cotta.jpg" alt=""></p><ul><li>1 cup whole milk</li><li>1 cup heavy whipping cream</li><li>2 tbsp sugar </li><li>2 tsp agar agar powder</li><li>1 tsp vanilla</li></ul><p>Combine ingredients in a saucepan and bring to a simmer. Let cool for a few minutes before pouring into forms. Refrigerate.</p><p>For the raspberry coulis topping:</p><ul><li>1 cup frozen raspberries</li><li>¼ cup sugar</li></ul><p>Disolve the sugar in 1 tbsp of hot water. Combine with raspberries and blend briefly (long enough to crush the raspberries, but not long enough to pulverize the seeds). Strain through a narrow sieve. Layer on top of the panna cotta before serving.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;A fancy-looking desert that is quick and simple to prepare… Serves 4.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;panna-cotta.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;1 cup whole 
+      
+    
+    </summary>
+    
+    
+      <category term="Recipe" scheme="http://eric.jain.name/tags/recipe/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Programmer Excuses</title>
     <link href="http://eric.jain.name/2017/10/29/programmer-excuses/"/>
     <id>http://eric.jain.name/2017/10/29/programmer-excuses/</id>
     <published>2017-10-29T07:00:00.000Z</published>
     <updated>2017-10-29T21:33:20.981Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="comic.png" alt="compiling, testing, training"></p>
-<p>(based on <a href="https://xkcd.com/303/">xkcd.com/303/</a>)</p>
-]]></content>
+    <content type="html"><![CDATA[<p><img src="comic.png" alt="compiling, testing, training"></p><p>(based on <a href="https://xkcd.com/303/">xkcd.com/303/</a>)</p>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;comic.png&quot; alt=&quot;compiling, testing, training&quot;&gt;&lt;/p&gt;
+      
+      
+        &lt;p&gt;&lt;img src=&quot;comic.png&quot; alt=&quot;compiling, testing, training&quot;&gt;&lt;/p&gt;
 &lt;p&gt;(based on &lt;a href=&quot;https://xkcd.com/303/&quot;&gt;xkcd.com/303/&lt;/a&gt;)&lt;/p&gt;
 
+      
     
     </summary>
     
@@ -46,19 +74,16 @@
     <link href="http://eric.jain.name/2017/08/31/cascades-pika-watch/"/>
     <id>http://eric.jain.name/2017/08/31/cascades-pika-watch/</id>
     <published>2017-08-31T07:00:00.000Z</published>
-    <updated>2017-09-01T01:09:01.493Z</updated>
+    <updated>2017-09-01T01:09:01.494Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="https://lh3.googleusercontent.com/4XyTyp9VJA4WAJbNn493W1XV3SFMqzUVvEymWOWnaM9lxmtJOJ7-Jr6xDcKNMeUpyzV-xM7TRBUYsv0g8yfryLIzEOGzQAiB711meqDkH5ZXSpaxjn60W63SxG7R9_219YDNKlzTDA=w1022-h767-no" alt="Pika near Cascade Pass"></p>
-<p>This summer we participated in a “citizen science” project that has us report any signs of <a href="https://en.wikipedia.org/wiki/American_pika">Pikas</a> we came across while hiking.</p>
-<p>To get started, we attended a training session at <a href="https://www.pdza.org/">Point Defiance Zoo</a> earlier this year, to ensure we wouldn’t confuse pikas with squirrels or other small mammals, and to learn how to identify pikas from their calls or scat.</p>
-<p>The observations were reported through <a href="https://play.google.com/store/apps/details?id=com.nrel.citsci">an Android app</a>. Each report includes not just the place and time of the observation, but also the number of animals, whether we saw or only heard them etc. The app was a bit tedious (and buggy), wish they had chosen <a href="https://play.google.com/store/apps/details?id=org.inaturalist.android">iNaturalist</a> instead.</p>
-<p>The observation data is publicly available at <a href="http://www.citsci.org/cwis438/Browse/Project/Project_Info.php?ProjectID=339">CitSci.org</a>. So far we contributed 5 observations, hoping to get a few more before winter!</p>
-<p>There’s also a fun <a href="https://www.facebook.com/groups/CascadesPikaWatch/">Facebook group</a> where people share pictures.</p>
-]]></content>
+    <content type="html"><![CDATA[<p><img src="https://lh3.googleusercontent.com/4XyTyp9VJA4WAJbNn493W1XV3SFMqzUVvEymWOWnaM9lxmtJOJ7-Jr6xDcKNMeUpyzV-xM7TRBUYsv0g8yfryLIzEOGzQAiB711meqDkH5ZXSpaxjn60W63SxG7R9_219YDNKlzTDA=w1022-h767-no" alt="Pika near Cascade Pass"></p><p>This summer we participated in a “citizen science” project that has us report any signs of <a href="https://en.wikipedia.org/wiki/American_pika">Pikas</a> we came across while hiking.</p><p>To get started, we attended a training session at <a href="https://www.pdza.org/">Point Defiance Zoo</a> earlier this year, to ensure we wouldn’t confuse pikas with squirrels or other small mammals, and to learn how to identify pikas from their calls or scat.</p><p>The observations were reported through <a href="https://play.google.com/store/apps/details?id=com.nrel.citsci">an Android app</a>. Each report includes not just the place and time of the observation, but also the number of animals, whether we saw or only heard them etc. The app was a bit tedious (and buggy), wish they had chosen <a href="https://play.google.com/store/apps/details?id=org.inaturalist.android">iNaturalist</a> instead.</p><p>The observation data is publicly available at <a href="http://www.citsci.org/cwis438/Browse/Project/Project_Info.php?ProjectID=339">CitSci.org</a>. So far we contributed 5 observations, hoping to get a few more before winter!</p><p>There’s also a fun <a href="https://www.facebook.com/groups/CascadesPikaWatch/">Facebook group</a> where people share pictures.</p>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/4XyTyp9VJA4WAJbNn493W1XV3SFMqzUVvEymWOWnaM9lxmtJOJ7-Jr6xDcKNMeUpyzV-xM7TRBUYsv0g8yfryLIzEOGzQ
+      
+      
+        &lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/4XyTyp9VJA4WAJbNn493W1XV3SFMqzUVvEymWOWnaM9lxmtJOJ7-Jr6xDcKNMeUpyzV-xM7TRBUYsv0g8yfryLIzEOGzQ
+      
     
     </summary>
     
@@ -72,36 +97,15 @@
     <published>2017-03-17T07:00:00.000Z</published>
     <updated>2017-03-17T06:22:58.132Z</updated>
     
-    <content type="html"><![CDATA[<p>Here are the contents of the first aid kit I <a href="/2017/03/05/vehicle-equipment/">keep in the car</a>, and take along on hikes.</p>
-<p><img src="contents.jpg" alt=""></p>
-<ol>
-<li><a href="http://kk.org/cooltools/fenix-l1dce-fla/">Flashlight</a></li>
-<li>Oral Rehydration Salts</li>
-<li><a href="https://grabberwarmers.com/warmer-products/">Hand Warmer</a></li>
-<li><a href="http://www.adventuremedicalkits.com/quikclot-advanced-clotting-sponge-50g-2.html">QuikClot Sponge</a></li>
-<li>Paracord</li>
-<li>Signal Mirror</li>
-<li><a href="https://www.katadyn.com/us/us/403-8014996-micropur-mp1-20-usa-only">Water Purification Tablets</a></li>
-<li>Insect Bite Wipes</li>
-<li>Antibiotic Ointment</li>
-<li>Medications (Aspirin, Diamode, Ibuprofen, Diphenhydramine)</li>
-<li>Sun Screen</li>
-<li>Duct Tape</li>
-<li>Gauze</li>
-<li>Medical Tape</li>
-<li>Nivea Cream</li>
-<li>Fire Lighter</li>
-<li>Towel</li>
-<li>Gauze Pads</li>
-<li>Blister Pads</li>
-<li>Band-Aids</li>
-</ol>
-]]></content>
+    <content type="html"><![CDATA[<p>Here are the contents of the first aid kit I <a href="/2017/03/05/vehicle-equipment/">keep in the car</a>, and take along on hikes.</p><p><img src="contents.jpg" alt=""></p><ol><li><a href="http://kk.org/cooltools/fenix-l1dce-fla/">Flashlight</a></li><li>Oral Rehydration Salts</li><li><a href="https://grabberwarmers.com/warmer-products/">Hand Warmer</a></li><li><a href="http://www.adventuremedicalkits.com/quikclot-advanced-clotting-sponge-50g-2.html">QuikClot Sponge</a></li><li>Paracord</li><li>Signal Mirror</li><li><a href="https://www.katadyn.com/us/us/403-8014996-micropur-mp1-20-usa-only">Water Purification Tablets</a></li><li>Insect Bite Wipes</li><li>Antibiotic Ointment</li><li>Medications (Aspirin, Diamode, Ibuprofen, Diphenhydramine)</li><li>Sun Screen</li><li>Duct Tape</li><li>Gauze</li><li>Medical Tape</li><li>Nivea Cream</li><li>Fire Lighter</li><li>Towel</li><li>Gauze Pads</li><li>Blister Pads</li><li>Band-Aids</li></ol>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;Here are the contents of the first aid kit I &lt;a href=&quot;/2017/03/05/vehicle-equipment/&quot;&gt;keep in the car&lt;/a&gt;, and take along on hikes.&lt;/p&gt;
+      
+      
+        &lt;p&gt;Here are the contents of the first aid kit I &lt;a href=&quot;/2017/03/05/vehicle-equipment/&quot;&gt;keep in the car&lt;/a&gt;, and take along on hikes.&lt;/p&gt;
 &lt;
+      
     
     </summary>
     
@@ -115,84 +119,16 @@
     <link href="http://eric.jain.name/2017/03/05/vehicle-equipment/"/>
     <id>http://eric.jain.name/2017/03/05/vehicle-equipment/</id>
     <published>2017-03-05T08:00:00.000Z</published>
-    <updated>2017-07-19T21:19:21.842Z</updated>
+    <updated>2017-07-19T21:19:21.843Z</updated>
     
-    <content type="html"><![CDATA[<p>This is all the gear I keep in the car. Other than a couple of short trips around town during the week, most of the driving is to and from trailheads.</p>
-<p><img src="images/gear.jpg" alt=""></p>
-<ol>
-<li><a href="http://autosock.us/">Tire Socks</a>. Never used, but they count as <a href="http://www.wsp.wa.gov/traveler/traction.htm">approved traction devices</a> here when cars are required to carry chains.</li>
-<li>Emergency Triangle</li>
-<li><a href="http://snowclaw.com/">Snow Shovel</a></li>
-<li><a href="/2017/03/17/first-aid-kit/">First Aid Kit</a>. This also goes along on hikes.</li>
-<li><a href="http://www.techmatte.com/CBL-ATC5B">USB Cable, 5ft</a></li>
-<li><a href="https://www.monoprice.com/product?c_id=116&amp;cp_id=10826&amp;cs_id=1082603&amp;p_id=13810&amp;seq=1&amp;format=2">USB Car Charger</a></li>
-<li><a href="https://www.kenu.com/products/airframe">Phone Mount</a></li>
-<li>Water, 1L</li>
-<li>Recreation Passes (<a href="https://www.nps.gov/planyourvisit/passes.htm">Interagency Pass</a>, <a href="http://www.discoverpass.wa.gov/">Discover Pass</a>, <a href="http://parks.state.wa.us/303/Sno-Parks">Sno-Park Permit</a>)</li>
-<li>Map</li>
-<li>Disposable Sunglasses</li>
-<li>Paper</li>
-<li><a href="http://tekton.com/Air_Hoses/Tire_Gauges/Digital-Tire-Gauge-100-PSI">Tire Gauge</a></li>
-<li><a href="http://5hourenergy.com/">Energy Drink</a></li>
-<li>Hand Sanitizer</li>
-<li>Microfiber Towel</li>
-<li>Rain Poncho</li>
-<li>Safety Vest</li>
-<li>Blanket</li>
-<li>Wire Saw</li>
-<li><a href="http://www.suaoki.com/rcp-c43l.html">Air Compressor</a></li>
-<li><a href="https://www.anker.com/products/A1501011">Jump Starter</a></li>
-<li><a href="https://www.fixaflat.com/us/product-details.php?id=14">Fix-a-Flat</a></li>
-<li><a href="http://www.orionsignals.com/product-groups/handheld-flares/product/20.html">Road Flares</a> (not shown)</li>
-<li><a href="https://www.amazon.com/dp/B00YI3IGA6/ref=cm_sw_su_dp">ShadeSox</a> (not shown). Used as a bug net when sleeping in the car with the rear windows open.</li>
-<li><a href="https://www.containerstore.com/s/grey-utility-trays/d?productId=10035847">Utility Trays</a></li>
-<li><a href="https://www.automatic.com/">Automatic</a> OBD Adapter (not shown). Records <a href="/2015/01/01/outdoor-trips/">tracklogs</a>, gas mileage, cost per trip, and other useful data.</li>
-</ol>
-<div class="gallery">
-
-
-
-  
-    <div class="row">
-  
-
-  <div class="col-sm-4">
-    <div class="thumbnail">
-      <a href="images/tire.jpg"><img src="thumbnails/tire.jpg"/></a>
-        <div class="caption">
-          Items 1-3 go under here...
-        </div>
-    </div>
-  </div>
-
-  
-
-
-
-  
-
-  <div class="col-sm-4">
-    <div class="thumbnail">
-      <a href="images/trunk.jpg"><img src="thumbnails/trunk.jpg"/></a>
-        <div class="caption">
-          ...and 17-25 fit inside the trays.
-        </div>
-    </div>
-  </div>
-
-  
-    </div>
-  
-
-
-
-</div>
-
-]]></content>
+    <content type="html"><![CDATA[<p>This is all the gear I keep in the car. Other than a couple of short trips around town during the week, most of the driving is to and from trailheads.</p><p><img src="images/gear.jpg" alt=""></p><ol><li><a href="http://autosock.us/">Tire Socks</a>. Never used, but they count as <a href="http://www.wsp.wa.gov/traveler/traction.htm">approved traction devices</a> here when cars are required to carry chains.</li><li>Emergency Triangle</li><li><a href="http://snowclaw.com/">Snow Shovel</a></li><li><a href="/2017/03/17/first-aid-kit/">First Aid Kit</a>. This also goes along on hikes.</li><li><a href="http://www.techmatte.com/CBL-ATC5B">USB Cable, 5ft</a></li><li><a href="https://www.monoprice.com/product?c_id=116&amp;cp_id=10826&amp;cs_id=1082603&amp;p_id=13810&amp;seq=1&amp;format=2">USB Car Charger</a></li><li><a href="https://www.kenu.com/products/airframe">Phone Mount</a></li><li>Water, 1L</li><li>Recreation Passes (<a href="https://www.nps.gov/planyourvisit/passes.htm">Interagency Pass</a>, <a href="http://www.discoverpass.wa.gov/">Discover Pass</a>, <a href="http://parks.state.wa.us/303/Sno-Parks">Sno-Park Permit</a>)</li><li>Map</li><li>Disposable Sunglasses</li><li>Paper</li><li><a href="http://tekton.com/Air_Hoses/Tire_Gauges/Digital-Tire-Gauge-100-PSI">Tire Gauge</a></li><li><a href="http://5hourenergy.com/">Energy Drink</a></li><li>Hand Sanitizer</li><li>Microfiber Towel</li><li>Rain Poncho</li><li>Safety Vest</li><li>Blanket</li><li>Wire Saw</li><li><a href="http://www.suaoki.com/rcp-c43l.html">Air Compressor</a></li><li><a href="https://www.anker.com/products/A1501011">Jump Starter</a></li><li><a href="https://www.fixaflat.com/us/product-details.php?id=14">Fix-a-Flat</a></li><li><a href="http://www.orionsignals.com/product-groups/handheld-flares/product/20.html">Road Flares</a> (not shown)</li><li><a href="https://www.amazon.com/dp/B00YI3IGA6/ref=cm_sw_su_dp">ShadeSox</a> (not shown). Used as a bug net when sleeping in the car with the rear windows open.</li><li><a href="https://www.containerstore.com/s/grey-utility-trays/d?productId=10035847">Utility Trays</a></li><li><a href="https://www.automatic.com/">Automatic</a> OBD Adapter (not shown). Records <a href="/2015/01/01/outdoor-trips/">tracklogs</a>, gas mileage, cost per trip, and other useful data.</li></ol><div class="gallery">      <div class="row">    <div class="col-sm-4">    <div class="thumbnail">      <a href="images/tire.jpg"><img src="thumbnails/tire.jpg"/></a>        <div class="caption">          Items 1-3 go under here...        </div>    </div>  </div>      <div class="col-sm-4">    <div class="thumbnail">      <a href="images/trunk.jpg"><img src="thumbnails/trunk.jpg"/></a>        <div class="caption">          ...and 17-25 fit inside the trays.        </div>    </div>  </div>      </div>  </div>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;This is all the gear I keep in the car. Other than a couple of short trips around town during the week, most of the driving is to and fro
+      
+      
+        &lt;p&gt;This is all the gear I keep in the car. Other than a couple of short trips around town during the week, most of the driving is to and fro
+      
     
     </summary>
     
@@ -208,23 +144,14 @@
     <published>2017-02-24T08:00:00.000Z</published>
     <updated>2017-03-12T06:44:28.740Z</updated>
     
-    <content type="html"><![CDATA[<p>This blog started out on <a href="https://en.wikipedia.org/wiki/Yahoo!_GeoCities">GeoCities</a> sometime during the <a href="https://en.wikipedia.org/wiki/Dot-com_bubble">dot-com bubble</a>. Somewhere along the way I moved it to a proper hosting provider (first <a href="guest-hosting.ch">guest-hosting.ch</a>, then <a href="https://www.rackspace.com/en-us">Rackspace</a>), acquired a <a href="https://en.wikipedia.org/wiki/.name">.name</a> domain, and set up a custom <a href="https://wordpress.org/">WordPress</a> installation.</p>
-<p>This setup was flexible, but meant I had to stay on top of security updates for WordPress (until automatic updates were introduced), remember to update the packages installed on the server (Ubuntu) once in a while, and deal with occasional comment spam. Also, page load times weren’t great (even with various caching plugins), since the site was being served from a low-end virtual server, which nevertheless cost me about $10 a month.</p>
-<p>This made going back to serving simple, static files an attractive option. <a href="https://pages.github.com/">GitHub Pages</a> was an obvious choice for hosting the site, since I already had several projects on GitHub. I’d also need a <em>static site generator</em> to create the web pages from the <a href="https://en.wikipedia.org/wiki/Markdown">Markdown</a> files I exported from WordPress:</p>
-<ul>
-<li><a href="https://jekyllrb.com/">Jekyll</a> would have been the default choice, since GitHub Pages has built-in support for Jekyll. But I wanted to be able to build the site on my own machine as well, and that turned out to be painful to set up, and very slow.</li>
-<li><a href="https://gohugo.io/">Hugo</a> appeared to have most of the same features, and was much faster.</li>
-<li><a href="https://hexo.io/">Hexo</a> seemed fast enough, and easier for me to customize than Hugo.</li>
-</ul>
-<p>I ended up creating a custom theme for Hexo based on <a href="https://github.com/klugjo/hexo-theme-clean-blog">this theme</a>.</p>
-<p><img src="blog.png" alt="Screenshot"></p>
-<p>Since switching to serving static pages, I no longer need to worry about security updates. Pages are served fast (<a href="https://uptimerobot.com/">UptimeRobot</a> reports response times of well under 100ms). I do miss having a bit more control (like being able to change the cache headers), but so far so good…</p>
-<p>You can see the source code for this site <a href="https://github.com/ejain/blog/">here</a> (the source itself is in the <code>master</code> branch, and the generated pages in the <code>gh-pages</code> branch).</p>
-]]></content>
+    <content type="html"><![CDATA[<p>This blog started out on <a href="https://en.wikipedia.org/wiki/Yahoo!_GeoCities">GeoCities</a> sometime during the <a href="https://en.wikipedia.org/wiki/Dot-com_bubble">dot-com bubble</a>. Somewhere along the way I moved it to a proper hosting provider (first <a href="guest-hosting.ch">guest-hosting.ch</a>, then <a href="https://www.rackspace.com/en-us">Rackspace</a>), acquired a <a href="https://en.wikipedia.org/wiki/.name">.name</a> domain, and set up a custom <a href="https://wordpress.org/">WordPress</a> installation.</p><p>This setup was flexible, but meant I had to stay on top of security updates for WordPress (until automatic updates were introduced), remember to update the packages installed on the server (Ubuntu) once in a while, and deal with occasional comment spam. Also, page load times weren’t great (even with various caching plugins), since the site was being served from a low-end virtual server, which nevertheless cost me about $10 a month.</p><p>This made going back to serving simple, static files an attractive option. <a href="https://pages.github.com/">GitHub Pages</a> was an obvious choice for hosting the site, since I already had several projects on GitHub. I’d also need a <em>static site generator</em> to create the web pages from the <a href="https://en.wikipedia.org/wiki/Markdown">Markdown</a> files I exported from WordPress:</p><ul><li><a href="https://jekyllrb.com/">Jekyll</a> would have been the default choice, since GitHub Pages has built-in support for Jekyll. But I wanted to be able to build the site on my own machine as well, and that turned out to be painful to set up, and very slow.</li><li><a href="https://gohugo.io/">Hugo</a> appeared to have most of the same features, and was much faster.</li><li><a href="https://hexo.io/">Hexo</a> seemed fast enough, and easier for me to customize than Hugo.</li></ul><p>I ended up creating a custom theme for Hexo based on <a href="https://github.com/klugjo/hexo-theme-clean-blog">this theme</a>.</p><p><img src="blog.png" alt="Screenshot"></p><p>Since switching to serving static pages, I no longer need to worry about security updates. Pages are served fast (<a href="https://uptimerobot.com/">UptimeRobot</a> reports response times of well under 100ms). I do miss having a bit more control (like being able to change the cache headers), but so far so good…</p><p>You can see the source code for this site <a href="https://github.com/ejain/blog/">here</a> (the source itself is in the <code>master</code> branch, and the generated pages in the <code>gh-pages</code> branch).</p>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;This blog started out on &lt;a href=&quot;https://en.wikipedia.org/wiki/Yahoo!_GeoCities&quot;&gt;GeoCities&lt;/a&gt; sometime during the &lt;a href=&quot;https://en.w
+      
+      
+        &lt;p&gt;This blog started out on &lt;a href=&quot;https://en.wikipedia.org/wiki/Yahoo!_GeoCities&quot;&gt;GeoCities&lt;/a&gt; sometime during the &lt;a href=&quot;https://en.w
+      
     
     </summary>
     
@@ -232,31 +159,20 @@
   </entry>
   
   <entry>
-    <title>Protein Shakes</title>
-    <link href="http://eric.jain.name/2017/01/06/protein-shakes/"/>
-    <id>http://eric.jain.name/2017/01/06/protein-shakes/</id>
+    <title>Smoothies</title>
+    <link href="http://eric.jain.name/2017/01/06/smoothies/"/>
+    <id>http://eric.jain.name/2017/01/06/smoothies/</id>
     <published>2017-01-06T08:00:00.000Z</published>
-    <updated>2017-03-17T05:43:15.982Z</updated>
+    <updated>2017-03-05T23:29:53.899Z</updated>
     
-    <content type="html"><![CDATA[<p>Here’s the recipe for my favorite post-exercise recovery drink:</p>
-<p><img src="ingredients.jpg" alt=""></p>
-<ol>
-<li>1 cup milk (or random <a href="http://www.pacificfoods.com/food/non-dairy-beverages.aspx">non-dairy beverage</a>)</li>
-<li>3 scoops <a href="https://www.raworganicwhey.com/">whey protein</a></li>
-<li>1 tsp <a href="https://healthworks.com/products/healthworks-raw-certified-organic-cacao-powder-1-lb">cacao powder</a></li>
-<li>1 tsp <a href="http://cbsnuts.com/wp/product/16oz-jar-cbs-peanut-butter-usa-grown/">peanut butter</a></li>
-<li>1 <a href="http://www.geekwire.com/2017/amazon-gives-5000-bananas-day-seattle/">banana</a></li>
-</ol>
-<p><a href="https://www.nutribulletpro.com/">Blending</a> this for half a minute results in a smooth, tasty shake. Goes well with dates or figs.</p>
-<p><img src="shake.jpg" alt=""></p>
-]]></content>
+    <content type="html"><![CDATA[<p>Upgraded my breakfast from cereal with yoghurt to “smoothie bowls” last year. After a lot of experimenting, here’s what I’ve settled on (for now):</p><p><img src="ingredients.jpg" alt=""></p><ol><li>1 cup yoghurt</li><li>1 tsp spirulina</li><li>1 tsp chia seeds</li><li>2 tsp golden flaxseed meal</li><li>1 cup frozen fruit (mango, pineapple, strawberry, caranberry, blueberry, banana)</li><li>1 leaf collard green and lacinato kale</li></ol><p>I <a href="https://www.nutribulletpro.com/">blend this</a> for just under a minute, sprinkle some granola on top, and this is the result:</p><p><img src="bowl.jpg" alt=""></p>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;Here’s the recipe for my favorite post-exercise recovery drink:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;ingredients.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;1 cup milk (or ran
+      
+      
+        &lt;p&gt;Upgraded my breakfast from cereal with yoghurt to “smoothie bowls” last year. After a lot of experimenting, here’s what I’ve settled on (
+      
     
     </summary>
     
@@ -266,29 +182,23 @@
   </entry>
   
   <entry>
-    <title>Smoothies</title>
-    <link href="http://eric.jain.name/2017/01/06/smoothies/"/>
-    <id>http://eric.jain.name/2017/01/06/smoothies/</id>
+    <title>Protein Shakes</title>
+    <link href="http://eric.jain.name/2017/01/06/protein-shakes/"/>
+    <id>http://eric.jain.name/2017/01/06/protein-shakes/</id>
     <published>2017-01-06T08:00:00.000Z</published>
-    <updated>2017-03-05T23:29:53.898Z</updated>
+    <updated>2017-03-17T05:43:15.983Z</updated>
     
-    <content type="html"><![CDATA[<p>Upgraded my breakfast from cereal with yoghurt to “smoothie bowls” last year. After a lot of experimenting, here’s what I’ve settled on (for now):</p>
-<p><img src="ingredients.jpg" alt=""></p>
-<ol>
-<li>1 cup yoghurt</li>
-<li>1 tsp spirulina</li>
-<li>1 tsp chia seeds</li>
-<li>2 tsp golden flaxseed meal</li>
-<li>1 cup frozen fruit (mango, pineapple, strawberry, caranberry, blueberry, banana)</li>
-<li>1 leaf collard green and lacinato kale</li>
-</ol>
-<p>I <a href="https://www.nutribulletpro.com/">blend this</a> for just under a minute, sprinkle some granola on top, and this is the result:</p>
-<p><img src="bowl.jpg" alt=""></p>
-]]></content>
+    <content type="html"><![CDATA[<p>Here’s the recipe for my favorite post-exercise recovery drink:</p><p><img src="ingredients.jpg" alt=""></p><ol><li>1 cup milk (or random <a href="http://www.pacificfoods.com/food/non-dairy-beverages.aspx">non-dairy beverage</a>)</li><li>3 scoops <a href="https://www.raworganicwhey.com/">whey protein</a></li><li>1 tsp <a href="https://healthworks.com/products/healthworks-raw-certified-organic-cacao-powder-1-lb">cacao powder</a></li><li>1 tsp <a href="http://cbsnuts.com/wp/product/16oz-jar-cbs-peanut-butter-usa-grown/">peanut butter</a></li><li>1 <a href="http://www.geekwire.com/2017/amazon-gives-5000-bananas-day-seattle/">banana</a></li></ol><p><a href="https://www.nutribulletpro.com/">Blending</a> this for half a minute results in a smooth, tasty shake. Goes well with dates or figs.</p><p><img src="shake.jpg" alt=""></p>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;Upgraded my breakfast from cereal with yoghurt to “smoothie bowls” last year. After a lot of experimenting, here’s what I’ve settled on (
+      
+      
+        &lt;p&gt;Here’s the recipe for my favorite post-exercise recovery drink:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;ingredients.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;1 cup milk (or ran
+      
     
     </summary>
     
@@ -302,42 +212,16 @@
     <link href="http://eric.jain.name/2016/09/17/subaru-crosstrek/"/>
     <id>http://eric.jain.name/2016/09/17/subaru-crosstrek/</id>
     <published>2016-09-17T07:00:00.000Z</published>
-    <updated>2017-03-06T02:40:36.237Z</updated>
+    <updated>2017-03-06T02:40:36.238Z</updated>
     
-    <content type="html"><![CDATA[<p>With my 2008 Honda Civic approaching 100K miles, I decided it was time to replace it. The Civic had been very reliable, and put up with a lot of abuse from driving on bumpy dirt roads without any problems–apart from one broken motor mount. But I didn’t want to push my luck. Also, the upcoming winter is forecast to have proper snow again…</p>
-<p>Requirements:</p>
-<ul>
-<li>Good ground clearance and suspension, so I don’t have to crawl around every pothole, and be afraid of scraping the bottom of the car.</li>
-<li>Similar width and length as the old car, so I can park the car around town without causing too much damage.</li>
-<li>Adaptive cruise control, so I can use cruise control even when the road isn’t empty (and feel like the new car is more sophisticated than the old car).</li>
-<li>Silver color, so dirt and scratches aren’t quite as visble.</li>
-<li>Decent gas mileage (at least 30mpg).</li>
-<li>Cost &lt;$30K.</li>
-</ul>
-<p>Cars I considered:</p>
-<ul>
-<li>Honda HRV</li>
-<li>Mazda CX-5</li>
-<li>Subaru Crosstrek</li>
-</ul>
-<p>The HRV would have been an obvious choice, given my good experience with the Civic and the <a href="http://www.hondaofseattle.com/">Honda of Seattle</a> service department. Unfortunately, the HRV doesn’t have an option for adaptive cruise control (need to get the larger CRV for that), and the ground clearance isn’t great. The CX-5 and the Crosstrek have similar ground clearance, features, safety ratings etc. The CX-5 has an option for a more powerful engine, but feels more like an SUV than a compact car, so I decided to check out the Crosstrek first.</p>
-<p>I test-drove a Crosstrek two weeks ago at <a href="http://www.chaplinssubaru.com/">Chaplin Subaru</a>, and loved it, but no one had the configuration I was looking for. <a href="http://www.royrobinson.com/">Roy Robinson Subaru</a> was one of 3 dealers in the region to receive a matching Crosstrek today (and one of the easiest to deal with), so that’s who got my business!</p>
-<p><img src="crosstrek.jpg" alt="Crosstrek 2.0i Premium"></p>
-<p>Things I learned:</p>
-<ul>
-<li>Some dealers are still having a hard time with the internet. Had to restate my original request up to three times before getting an answer from some of them.</li>
-<li>If you are buying a popular model, finding a dealer who has a vehicle available can be tricky.</li>
-<li>Even so, every dealer (with the exception of Carter Subaru in Seattle) was willing the match prices, and sell at $1K “below invoice”, which happened to correspond to the price I got from <a href="https://www.truecar.com/">TrueCar</a>.</li>
-<li>Local sales taxes differ slightly from dealer to dealer; this can add up to a few hundred $.</li>
-<li>Dealers load up cars with optional features you might not need; doing a factory order could have saved me almost $1K.</li>
-<li>…however, negotiating a <a href="https://www.kbb.com/used-cars/">good trade-in value</a> for the old car would have been difficult with a factory order (which takes at least 6 weeks to deliver).</li>
-<li>Doing a trade-in has significant tax advantages.</li>
-</ul>
-]]></content>
+    <content type="html"><![CDATA[<p>With my 2008 Honda Civic approaching 100K miles, I decided it was time to replace it. The Civic had been very reliable, and put up with a lot of abuse from driving on bumpy dirt roads without any problems–apart from one broken motor mount. But I didn’t want to push my luck. Also, the upcoming winter is forecast to have proper snow again…</p><p>Requirements:</p><ul><li>Good ground clearance and suspension, so I don’t have to crawl around every pothole, and be afraid of scraping the bottom of the car.</li><li>Similar width and length as the old car, so I can park the car around town without causing too much damage.</li><li>Adaptive cruise control, so I can use cruise control even when the road isn’t empty (and feel like the new car is more sophisticated than the old car).</li><li>Silver color, so dirt and scratches aren’t quite as visble.</li><li>Decent gas mileage (at least 30mpg).</li><li>Cost &lt;$30K.</li></ul><p>Cars I considered:</p><ul><li>Honda HRV</li><li>Mazda CX-5</li><li>Subaru Crosstrek</li></ul><p>The HRV would have been an obvious choice, given my good experience with the Civic and the <a href="http://www.hondaofseattle.com/">Honda of Seattle</a> service department. Unfortunately, the HRV doesn’t have an option for adaptive cruise control (need to get the larger CRV for that), and the ground clearance isn’t great. The CX-5 and the Crosstrek have similar ground clearance, features, safety ratings etc. The CX-5 has an option for a more powerful engine, but feels more like an SUV than a compact car, so I decided to check out the Crosstrek first.</p><p>I test-drove a Crosstrek two weeks ago at <a href="http://www.chaplinssubaru.com/">Chaplin Subaru</a>, and loved it, but no one had the configuration I was looking for. <a href="http://www.royrobinson.com/">Roy Robinson Subaru</a> was one of 3 dealers in the region to receive a matching Crosstrek today (and one of the easiest to deal with), so that’s who got my business!</p><p><img src="crosstrek.jpg" alt="Crosstrek 2.0i Premium"></p><p>Things I learned:</p><ul><li>Some dealers are still having a hard time with the internet. Had to restate my original request up to three times before getting an answer from some of them.</li><li>If you are buying a popular model, finding a dealer who has a vehicle available can be tricky.</li><li>Even so, every dealer (with the exception of Carter Subaru in Seattle) was willing the match prices, and sell at $1K “below invoice”, which happened to correspond to the price I got from <a href="https://www.truecar.com/">TrueCar</a>.</li><li>Local sales taxes differ slightly from dealer to dealer; this can add up to a few hundred $.</li><li>Dealers load up cars with optional features you might not need; doing a factory order could have saved me almost $1K.</li><li>…however, negotiating a <a href="https://www.kbb.com/used-cars/">good trade-in value</a> for the old car would have been difficult with a factory order (which takes at least 6 weeks to deliver).</li><li>Doing a trade-in has significant tax advantages.</li></ul>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;With my 2008 Honda Civic approaching 100K miles, I decided it was time to replace it. The Civic had been very reliable, and put up with a
+      
+      
+        &lt;p&gt;With my 2008 Honda Civic approaching 100K miles, I decided it was time to replace it. The Civic had been very reliable, and put up with a
+      
     
     </summary>
     
@@ -353,13 +237,14 @@
     <published>2016-01-01T08:00:00.000Z</published>
     <updated>2017-02-27T01:30:40.937Z</updated>
     
-    <content type="html"><![CDATA[<p>Collected tracks for every flight I took last year from <a href="https://flightaware.com/">FlightAware</a>, and used <a href="https://gist.github.com/ejain/ea143f446bb568ec20d6">this script</a> to merge the tracks into a single file that could be imported into <a href="https://www.google.com/fusiontables/">Google Fusion Tables</a>. This is the result:</p>
-<p><a href="https://www.google.com/fusiontables/embedviz?q=select+col2+from+1TTaW_pw0b4ZgeHeO4H7xkqY6MNLRqD8Z2cZUeXdO&amp;viz=MAP&amp;h=false&amp;lat=32.63587469625332&amp;lng=-93.51910237499999&amp;t=1&amp;z=4&amp;l=col2&amp;y=2&amp;tmplt=2&amp;hml=KML"><img src="https://c2.staticflickr.com/2/1607/23343129434_34a5ac61cc_z.jpg" alt="Flight Map"></a></p>
-]]></content>
+    <content type="html"><![CDATA[<p>Collected tracks for every flight I took last year from <a href="https://flightaware.com/">FlightAware</a>, and used <a href="https://gist.github.com/ejain/ea143f446bb568ec20d6">this script</a> to merge the tracks into a single file that could be imported into <a href="https://www.google.com/fusiontables/">Google Fusion Tables</a>. This is the result:</p><p><a href="https://www.google.com/fusiontables/embedviz?q=select+col2+from+1TTaW_pw0b4ZgeHeO4H7xkqY6MNLRqD8Z2cZUeXdO&amp;viz=MAP&amp;h=false&amp;lat=32.63587469625332&amp;lng=-93.51910237499999&amp;t=1&amp;z=4&amp;l=col2&amp;y=2&amp;tmplt=2&amp;hml=KML"><img src="https://c2.staticflickr.com/2/1607/23343129434_34a5ac61cc_z.jpg" alt="Flight Map"></a></p>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;Collected tracks for every flight I took last year from &lt;a href=&quot;https://flightaware.com/&quot;&gt;FlightAware&lt;/a&gt;, and used &lt;a href=&quot;https://gis
+      
+      
+        &lt;p&gt;Collected tracks for every flight I took last year from &lt;a href=&quot;https://flightaware.com/&quot;&gt;FlightAware&lt;/a&gt;, and used &lt;a href=&quot;https://gis
+      
     
     </summary>
     
@@ -375,14 +260,14 @@
     <published>2015-01-01T08:00:00.000Z</published>
     <updated>2017-02-25T06:21:35.186Z</updated>
     
-    <content type="html"><![CDATA[<p>Looking back at all the outdoor trips we did last year, <a href="https://zenobase.com/#/buckets/u07qih0a27/?q=timestamp:2014">the stats</a> look almost identical to the previous year’s. Couple more overnight trips (10), thanks to the great weather. All in all, we hiked and paddled about 470 mi with 110,000 ft elevation gain on 59 trips.</p>
-<p><a href="https://www.google.com/fusiontables/embedviz?q=select+col5+from+1qqRIewHtmcROWgAtyAWkFd50jF7IyIG_pdAcj-SX&amp;viz=MAP&amp;h=false&amp;lat=47.273650754137826&amp;lng=-122.05635518652345&amp;t=4&amp;z=8&amp;l=col5&amp;y=2&amp;tmplt=2&amp;hml=KML"><img src="http://farm8.static.flickr.com/7521/15996138219_aa9bcdef84_o.png" alt="Tracklogs"></a></p>
-<p>See <a href="/2010/12/12/one-years-tracklogs/">this previous post</a> for an explanation how this map was created.</p>
-]]></content>
+    <content type="html"><![CDATA[<p>Looking back at all the outdoor trips we did last year, <a href="https://zenobase.com/#/buckets/u07qih0a27/?q=timestamp:2014">the stats</a> look almost identical to the previous year’s. Couple more overnight trips (10), thanks to the great weather. All in all, we hiked and paddled about 470 mi with 110,000 ft elevation gain on 59 trips.</p><p><a href="https://www.google.com/fusiontables/embedviz?q=select+col5+from+1qqRIewHtmcROWgAtyAWkFd50jF7IyIG_pdAcj-SX&amp;viz=MAP&amp;h=false&amp;lat=47.273650754137826&amp;lng=-122.05635518652345&amp;t=4&amp;z=8&amp;l=col5&amp;y=2&amp;tmplt=2&amp;hml=KML"><img src="http://farm8.static.flickr.com/7521/15996138219_aa9bcdef84_o.png" alt="Tracklogs"></a></p><p>See <a href="/2010/12/12/one-years-tracklogs/">this previous post</a> for an explanation how this map was created.</p>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;Looking back at all the outdoor trips we did last year, &lt;a href=&quot;https://zenobase.com/#/buckets/u07qih0a27/?q=timestamp:2014&quot;&gt;the stats&lt;/
+      
+      
+        &lt;p&gt;Looking back at all the outdoor trips we did last year, &lt;a href=&quot;https://zenobase.com/#/buckets/u07qih0a27/?q=timestamp:2014&quot;&gt;the stats&lt;/
+      
     
     </summary>
     
@@ -398,19 +283,14 @@
     <published>2014-05-24T07:00:00.000Z</published>
     <updated>2017-02-25T06:20:19.808Z</updated>
     
-    <content type="html"><![CDATA[<p>Tableau has a <a href="http://www.tableausoftware.com/public/contest/QS">contest</a> going on for visualizing Quantified Self data. I happen to have a fair amount of such of data from all kinds of sources on <a href="https://zenobase.com/">zenobase.com</a>, so I decided to give it a shot.</p>
-<p>I was curious about Tableau’s geo features, and how well Tableau would handle slightly larger data sets. So I chose some outdoor/fitness activity data (which includes coordinates), and some hour-resolution energy expenditure data (~10K records).</p>
-<p>Getting the data into Tableau was straightforward, as Zenobase exports data in <acronym>CSV</acronym> format. Tableau didn’t detect any data types (timestamps, coordinates, or even numbers), but that was easy to fix after the import had completed. Working with the larger data set was not a problem, either, even if the experience wasn’t exactly snappy.</p>
-<p>You can find the result embedded below. The “dashboard” is interactive, so you can select one or more days of the week (and/or hours of the day), and the map will update to show activities that started at the corresponding time. Or you can select an activity type, or a region on the map.* Note the different patterns on week days and week ends.</p>
-<p><p><script type='text/javascript' src='http://public.tableausoftware.com/javascripts/api/viz_v1.js'></script></p></p>
-<div class='tableauPlaceholder' style='width: 654px; height: 879px;'><noscript><a href='#'><img alt='Dashboard ' src='http:&#47;&#47;public.tableausoftware.com&#47;static&#47;images&#47;Ac&#47;ActivitiesCaloriesBurned&#47;Dashboard&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz' width='654' height='879' style='display:none;'><param name='host_url' value='http%3A%2F%2Fpublic.tableausoftware.com%2F' /><param name='site_root' value='' /><param name='name' value='ActivitiesCaloriesBurned&#47;Dashboard' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='http:&#47;&#47;public.tableausoftware.com&#47;static&#47;images&#47;Ac&#47;ActivitiesCaloriesBurned&#47;Dashboard&#47;1.png' /><param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='amp;:showVizHome=no' /></object></div><br><div style='width:654px;height:22px;padding:0px 10px 0px 0px;color:black;font:normal 8pt verdana,helvetica,arial,sans-serif;'></div>
-
-<p>* If the submission deadline wasn’t this Sunday evening, and I wasn’t on my way out to “collect more data”, perhaps I could try to show the energy expenditure on the map, and let selections on the map update the energy expenditure data below as well…</p>
-]]></content>
+    <content type="html"><![CDATA[<p>Tableau has a <a href="http://www.tableausoftware.com/public/contest/QS">contest</a> going on for visualizing Quantified Self data. I happen to have a fair amount of such of data from all kinds of sources on <a href="https://zenobase.com/">zenobase.com</a>, so I decided to give it a shot.</p><p>I was curious about Tableau’s geo features, and how well Tableau would handle slightly larger data sets. So I chose some outdoor/fitness activity data (which includes coordinates), and some hour-resolution energy expenditure data (~10K records).</p><p>Getting the data into Tableau was straightforward, as Zenobase exports data in <acronym>CSV</acronym> format. Tableau didn’t detect any data types (timestamps, coordinates, or even numbers), but that was easy to fix after the import had completed. Working with the larger data set was not a problem, either, even if the experience wasn’t exactly snappy.</p><p>You can find the result embedded below. The “dashboard” is interactive, so you can select one or more days of the week (and/or hours of the day), and the map will update to show activities that started at the corresponding time. Or you can select an activity type, or a region on the map.* Note the different patterns on week days and week ends.</p><p><p><script type='text/javascript' src='http://public.tableausoftware.com/javascripts/api/viz_v1.js'></script></p></p><div class='tableauPlaceholder' style='width: 654px; height: 879px;'><noscript><a href='#'><img alt='Dashboard ' src='http:&#47;&#47;public.tableausoftware.com&#47;static&#47;images&#47;Ac&#47;ActivitiesCaloriesBurned&#47;Dashboard&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz' width='654' height='879' style='display:none;'><param name='host_url' value='http%3A%2F%2Fpublic.tableausoftware.com%2F' /><param name='site_root' value='' /><param name='name' value='ActivitiesCaloriesBurned&#47;Dashboard' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='http:&#47;&#47;public.tableausoftware.com&#47;static&#47;images&#47;Ac&#47;ActivitiesCaloriesBurned&#47;Dashboard&#47;1.png' /><param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='amp;:showVizHome=no' /></object></div><br><div style='width:654px;height:22px;padding:0px 10px 0px 0px;color:black;font:normal 8pt verdana,helvetica,arial,sans-serif;'></div><p>* If the submission deadline wasn’t this Sunday evening, and I wasn’t on my way out to “collect more data”, perhaps I could try to show the energy expenditure on the map, and let selections on the map update the energy expenditure data below as well…</p>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;Tableau has a &lt;a href=&quot;http://www.tableausoftware.com/public/contest/QS&quot;&gt;contest&lt;/a&gt; going on for visualizing Quantified Self data. I hap
+      
+      
+        &lt;p&gt;Tableau has a &lt;a href=&quot;http://www.tableausoftware.com/public/contest/QS&quot;&gt;contest&lt;/a&gt; going on for visualizing Quantified Self data. I hap
+      
     
     </summary>
     
@@ -426,17 +306,14 @@
     <published>2014-01-29T08:00:00.000Z</published>
     <updated>2017-02-28T08:18:03.015Z</updated>
     
-    <content type="html"><![CDATA[<p>Last weekend I attended my first <a href="http://euroseattle.startupweekend.org/">Startup Weekend</a>. The event was very well organized; I had a great time and got to know a lot of good people.</p>
-<p>Didn’t get enough votes for the idea I pitched (a dating site that matches people using data from services like Fitbit), so I ended up joining another team to build <a href="http://www.myloop.co/">an app that generates running routes that pass near popular sights</a>.</p>
-<p><img src="myloop_app.png" title="Generated route starting at Louisa's Cafe" width="180" height="300"/></p>
-<p>Our team consisted of 6 “non-technicals” and 3 developers (including myself). There was little friction, and I was impressed how well tasks like market research were performed. Somewhat less impressive was the amount of time spent discussing logos and background colors. Also, does the “Minimum Viable Product” really need a built-in music player? :-)</p>
-<p>Despite Startup Weekend’s slogan (“No Talk, All Action”), there isn’t much incentive to put a lot of development effort into anything but building smoke and mirrors: Even though we had what appeared to be the only (somewhat) usable product, we didn’t even make it into the top 4…</p>
-<p>Every Startup Weekend is probably unique, but it would be more worthwhile for developers if there was some technical mentorship, and judges also took execution into consideration, not just business plans.</p>
-]]></content>
+    <content type="html"><![CDATA[<p>Last weekend I attended my first <a href="http://euroseattle.startupweekend.org/">Startup Weekend</a>. The event was very well organized; I had a great time and got to know a lot of good people.</p><p>Didn’t get enough votes for the idea I pitched (a dating site that matches people using data from services like Fitbit), so I ended up joining another team to build <a href="http://www.myloop.co/">an app that generates running routes that pass near popular sights</a>.</p><p><img src="myloop_app.png" title="Generated route starting at Louisa's Cafe" width="180" height="300"/></p><p>Our team consisted of 6 “non-technicals” and 3 developers (including myself). There was little friction, and I was impressed how well tasks like market research were performed. Somewhat less impressive was the amount of time spent discussing logos and background colors. Also, does the “Minimum Viable Product” really need a built-in music player? :-)</p><p>Despite Startup Weekend’s slogan (“No Talk, All Action”), there isn’t much incentive to put a lot of development effort into anything but building smoke and mirrors: Even though we had what appeared to be the only (somewhat) usable product, we didn’t even make it into the top 4…</p><p>Every Startup Weekend is probably unique, but it would be more worthwhile for developers if there was some technical mentorship, and judges also took execution into consideration, not just business plans.</p>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;Last weekend I attended my first &lt;a href=&quot;http://euroseattle.startupweekend.org/&quot;&gt;Startup Weekend&lt;/a&gt;. The event was very well organized;
+      
+      
+        &lt;p&gt;Last weekend I attended my first &lt;a href=&quot;http://euroseattle.startupweekend.org/&quot;&gt;Startup Weekend&lt;/a&gt;. The event was very well organized;
+      
     
     </summary>
     
@@ -452,28 +329,19 @@
     <published>2013-10-11T07:00:00.000Z</published>
     <updated>2017-02-28T08:18:03.002Z</updated>
     
-    <content type="html"><![CDATA[<blockquote>
-<p>Our Father in heaven,</p>
-<p>hallowed be your OAuth tokens.</p>
-<p>Your data come,</p>
-<p>your quota will be increased,</p>
-<p>in the sandbox, as well as in production.</p>
-<p>Give us this day out daily stats,</p>
-<p>and forgive us our outdated docs,</p>
-<p>as we have also forgiven those whose timestamps lack time zone offsets.</p>
-<p>And lead us not into premature standardization,</p>
-<p>but deliver us from expired SSL certificates.</p>
-</blockquote>
-]]></content>
+    <content type="html"><![CDATA[<blockquote><p>Our Father in heaven,</p><p>hallowed be your OAuth tokens.</p><p>Your data come,</p><p>your quota will be increased,</p><p>in the sandbox, as well as in production.</p><p>Give us this day out daily stats,</p><p>and forgive us our outdated docs,</p><p>as we have also forgiven those whose timestamps lack time zone offsets.</p><p>And lead us not into premature standardization,</p><p>but deliver us from expired SSL certificates.</p></blockquote>]]></content>
     
     <summary type="html">
     
-      &lt;blockquote&gt;
+      
+      
+        &lt;blockquote&gt;
 &lt;p&gt;Our Father in heaven,&lt;/p&gt;
 &lt;p&gt;hallowed be your OAuth tokens.&lt;/p&gt;
 &lt;p&gt;Your data come,&lt;/p&gt;
 &lt;p&gt;your quota will be increased,&lt;/p&gt;
 
+      
     
     </summary>
     
@@ -491,24 +359,15 @@
     <published>2013-07-05T07:00:00.000Z</published>
     <updated>2017-02-28T08:18:02.991Z</updated>
     
-    <content type="html"><![CDATA[<p>Got a Thinkpad T431s to replace my 3-year old T410s. Here are some random observations, after using the new laptop for a few weeks.</p>
-<p><img src="T431s.jpg" alt="T431s"></p>
-<p>The T431s feels much lighter than the T410s. The screen is a bit smaller (still 14”, but more elongated), and the T431s lacks a DVD reader/writer, but I won’t miss that to much. On the other hand I find the fingerprint reader (not faster than typing, but less awkward when typing in front of other people) and the memory card reader (can transfer pictures from a camera fast and without having to search for the right cable) quite useful.</p>
-<p>I like the backlit keyboard better than the light on the previous models. I’m less happy about the random placement of the Home/End/PgUp/PgDn keys, which I use a lot. I wouldn’t mind if I could at least map Fn+Up to PgUp, Fn+Left to Home etc, but this does not appear to be possible (tried with KeyTweak). I also use the F keys a lot; these are now by default used to control volume, brightness etc. There is a FnLk, but that has to be reset after waking up from standby.</p>
-<p>One of the nice things with Thinkpads is the ability to create custom configurations. I no longer care much about CPUs (Intel Core i7-3687U, 4M Cache, 2.00 GHz), but chose twice the RAM (8G RAM) that I had in the T410s. The disk is a 180GB SSD (would have chosen 250GB, if that had been an option). Had to spend some time removing unwanted trial applications (anti-virus, office), and the large recovery partition and local drivers (after creating a recovery USB drive).</p>
-<p>The T431s appears to be much more quiet than the T410s. The T410s had some weird screeching sounds (a known problem with some chipset used in that machine), and was prone to overheating, especially when using the “discrete” ATI graphics card. The “switchable graphics” setup is no longer an option, but the integrated Intel HD Graphics 4000 is now powerful enough for me.</p>
-<p>The large, smooth trackpad on the T431s is much more pleasant to use than the rough trackpad on the T410s with its poorly defined borders. The trackpad does rattle and feel a bit cheap when depressing it, but I prefer to click by tapping lightly anyway. Should just glue it in place :-)</p>
-<p>The DisplayPort is gone, replaced with a (much more common) Mini-DisplayPort. There’s still a VGA port, too. All ports are now on the sides. The T431s still works with the Mini Dock Series 3, using a small (included) piece of plastic to help guide the laptop into position.</p>
-<p>The power adapter has been shrunk a bit, which is nice. The power plug was changed as well: It’s no longer round, but looks like (and could be confused with) a USB plug.</p>
-<p>The battery life isn’t very impressive, but I seem to get at least 3 hours when using wifi and a reasonable screen brightness. Also, the contrast and brightness of the screen are rather poor. This would be an issue, if I didn’t have the laptop connected to an external monitor most of the time.</p>
-<p>Like with previous Thinkpads, the build quality looks good. There is a new hinge design; I’m curious to see how fast the hinges wear out. The hinges on the T410s were a weak spot, wearing out after only a year or so (compared to the hinges on the T42p, which didn’t show any signs of wear even after several years).</p>
-<p>All in all, the T431s has been a worthwhile upgrade for me. I’ll keep this post updated…</p>
-]]></content>
+    <content type="html"><![CDATA[<p>Got a Thinkpad T431s to replace my 3-year old T410s. Here are some random observations, after using the new laptop for a few weeks.</p><p><img src="T431s.jpg" alt="T431s"></p><p>The T431s feels much lighter than the T410s. The screen is a bit smaller (still 14”, but more elongated), and the T431s lacks a DVD reader/writer, but I won’t miss that to much. On the other hand I find the fingerprint reader (not faster than typing, but less awkward when typing in front of other people) and the memory card reader (can transfer pictures from a camera fast and without having to search for the right cable) quite useful.</p><p>I like the backlit keyboard better than the light on the previous models. I’m less happy about the random placement of the Home/End/PgUp/PgDn keys, which I use a lot. I wouldn’t mind if I could at least map Fn+Up to PgUp, Fn+Left to Home etc, but this does not appear to be possible (tried with KeyTweak). I also use the F keys a lot; these are now by default used to control volume, brightness etc. There is a FnLk, but that has to be reset after waking up from standby.</p><p>One of the nice things with Thinkpads is the ability to create custom configurations. I no longer care much about CPUs (Intel Core i7-3687U, 4M Cache, 2.00 GHz), but chose twice the RAM (8G RAM) that I had in the T410s. The disk is a 180GB SSD (would have chosen 250GB, if that had been an option). Had to spend some time removing unwanted trial applications (anti-virus, office), and the large recovery partition and local drivers (after creating a recovery USB drive).</p><p>The T431s appears to be much more quiet than the T410s. The T410s had some weird screeching sounds (a known problem with some chipset used in that machine), and was prone to overheating, especially when using the “discrete” ATI graphics card. The “switchable graphics” setup is no longer an option, but the integrated Intel HD Graphics 4000 is now powerful enough for me.</p><p>The large, smooth trackpad on the T431s is much more pleasant to use than the rough trackpad on the T410s with its poorly defined borders. The trackpad does rattle and feel a bit cheap when depressing it, but I prefer to click by tapping lightly anyway. Should just glue it in place :-)</p><p>The DisplayPort is gone, replaced with a (much more common) Mini-DisplayPort. There’s still a VGA port, too. All ports are now on the sides. The T431s still works with the Mini Dock Series 3, using a small (included) piece of plastic to help guide the laptop into position.</p><p>The power adapter has been shrunk a bit, which is nice. The power plug was changed as well: It’s no longer round, but looks like (and could be confused with) a USB plug.</p><p>The battery life isn’t very impressive, but I seem to get at least 3 hours when using wifi and a reasonable screen brightness. Also, the contrast and brightness of the screen are rather poor. This would be an issue, if I didn’t have the laptop connected to an external monitor most of the time.</p><p>Like with previous Thinkpads, the build quality looks good. There is a new hinge design; I’m curious to see how fast the hinges wear out. The hinges on the T410s were a weak spot, wearing out after only a year or so (compared to the hinges on the T42p, which didn’t show any signs of wear even after several years).</p><p>All in all, the T431s has been a worthwhile upgrade for me. I’ll keep this post updated…</p>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;Got a Thinkpad T431s to replace my 3-year old T410s. Here are some random observations, after using the new laptop for a few weeks.&lt;/p&gt;
+      
+      
+        &lt;p&gt;Got a Thinkpad T431s to replace my 3-year old T410s. Here are some random observations, after using the new laptop for a few weeks.&lt;/p&gt;
 &lt;
+      
     
     </summary>
     
@@ -524,15 +383,16 @@
     <link href="http://eric.jain.name/2012/03/24/california-roadtrip/"/>
     <id>http://eric.jain.name/2012/03/24/california-roadtrip/</id>
     <published>2012-03-24T07:00:00.000Z</published>
-    <updated>2017-02-25T06:52:50.658Z</updated>
+    <updated>2017-02-25T06:52:50.659Z</updated>
     
-    <content type="html"><![CDATA[<p>Here’s a map with tracks, waypoints and links to photo albums from a one-week trip from Los Angeles to San Francisco and back (March 15–22).</p>
-<iframe src="map.html" height="600" width="550"></iframe>
-]]></content>
+    <content type="html"><![CDATA[<p>Here’s a map with tracks, waypoints and links to photo albums from a one-week trip from Los Angeles to San Francisco and back (March 15–22).</p><iframe src="map.html" height="600" width="550"></iframe>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;Here’s a map with tracks, waypoints and links to photo albums from a one-week trip from Los Angeles to San Francisco and back (March 15–2
+      
+      
+        &lt;p&gt;Here’s a map with tracks, waypoints and links to photo albums from a one-week trip from Los Angeles to San Francisco and back (March 15–2
+      
     
     </summary>
     
@@ -548,13 +408,14 @@
     <published>2011-11-17T08:00:00.000Z</published>
     <updated>2017-02-28T08:18:02.976Z</updated>
     
-    <content type="html"><![CDATA[<p>I gave a talk at the <a href="http://www.seajug.org/">Seattle Java User Group</a> this week, where I talk about two technologies I use <a href="http://www.sciscogenetics.com/">at work</a>: The <a href="http://www.osgi.org/About/Technology">OSGi</a> module system, and the <a href="http://wiki.eclipse.org/index.php/Rich_Client_Platform">Eclipse Rich Client Platform</a>. Giving this talk was a good experience, and the audience was great. You can watch the talk below, or flip through <a href="https://www.slideshare.net/ejain/osgi-and-eclipse-rcp">the slides</a>.</p>
-<iframe src="https://player.vimeo.com/video/32248135" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-]]></content>
+    <content type="html"><![CDATA[<p>I gave a talk at the <a href="http://www.seajug.org/">Seattle Java User Group</a> this week, where I talk about two technologies I use <a href="http://www.sciscogenetics.com/">at work</a>: The <a href="http://www.osgi.org/About/Technology">OSGi</a> module system, and the <a href="http://wiki.eclipse.org/index.php/Rich_Client_Platform">Eclipse Rich Client Platform</a>. Giving this talk was a good experience, and the audience was great. You can watch the talk below, or flip through <a href="https://www.slideshare.net/ejain/osgi-and-eclipse-rcp">the slides</a>.</p><iframe src="https://player.vimeo.com/video/32248135" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;I gave a talk at the &lt;a href=&quot;http://www.seajug.org/&quot;&gt;Seattle Java User Group&lt;/a&gt; this week, where I talk about two technologies I use &lt;a
+      
+      
+        &lt;p&gt;I gave a talk at the &lt;a href=&quot;http://www.seajug.org/&quot;&gt;Seattle Java User Group&lt;/a&gt; this week, where I talk about two technologies I use &lt;a
+      
     
     </summary>
     
@@ -570,19 +431,17 @@
     <link href="http://eric.jain.name/2010/12/12/one-years-tracklogs/"/>
     <id>http://eric.jain.name/2010/12/12/one-years-tracklogs/</id>
     <published>2010-12-12T08:00:00.000Z</published>
-    <updated>2017-09-24T02:11:00.480Z</updated>
+    <updated>2017-09-24T02:11:00.481Z</updated>
     
-    <content type="html"><![CDATA[<p>Here’s a map that shows every tracklog I recorded this year, driving and hiking around Washington State (mostly).</p>
-<p><a href="https://www.google.com/fusiontables/DataSource?snapid=115713"><img src="//farm6.static.flickr.com/5121/5256169282_e8d8d29480_z.jpg" alt="Eric&#39;s Tracklogs 2010"></a></p>
-<p>The red tracks were recorded while driving (or, in one instance, while on a ferry). The yellow tracks were recorded while hiking (or in small boats). I only started recording driving tracklogs end of April, hence the few disconnected hiking tracks on the map.</p>
-<p>The map was created with <a href="https://www.google.com/fusiontables">Google Fusion Tables</a>, which somehow is smart enough to be able to show a large number of tracklogs all at once. I wrote a small <a href="build.g">script</a> (in Groovy) to convert a directory containing GPX tracklog files into a single KML file that can be imported into Google Fusion Tables.</p>
-<p>Click on the image above to open an interactive, zoomable map.</p>
-]]></content>
+    <content type="html"><![CDATA[<p>Here’s a map that shows every tracklog I recorded this year, driving and hiking around Washington State (mostly).</p><p><a href="https://www.google.com/fusiontables/DataSource?snapid=115713"><img src="//farm6.static.flickr.com/5121/5256169282_e8d8d29480_z.jpg" alt="Eric&#39;s Tracklogs 2010"></a></p><p>The red tracks were recorded while driving (or, in one instance, while on a ferry). The yellow tracks were recorded while hiking (or in small boats). I only started recording driving tracklogs end of April, hence the few disconnected hiking tracks on the map.</p><p>The map was created with <a href="https://www.google.com/fusiontables">Google Fusion Tables</a>, which somehow is smart enough to be able to show a large number of tracklogs all at once. I wrote a small <a href="build.g">script</a> (in Groovy) to convert a directory containing GPX tracklog files into a single KML file that can be imported into Google Fusion Tables.</p><p>Click on the image above to open an interactive, zoomable map.</p>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;Here’s a map that shows every tracklog I recorded this year, driving and hiking around Washington State (mostly).&lt;/p&gt;
+      
+      
+        &lt;p&gt;Here’s a map that shows every tracklog I recorded this year, driving and hiking around Washington State (mostly).&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https:/
+      
     
     </summary>
     
@@ -596,134 +455,17 @@
     <link href="http://eric.jain.name/2010/04/16/kauai/"/>
     <id>http://eric.jain.name/2010/04/16/kauai/</id>
     <published>2010-04-16T07:00:00.000Z</published>
-    <updated>2017-02-28T06:39:27.410Z</updated>
+    <updated>2017-02-28T06:39:27.411Z</updated>
     
-    <content type="html"><![CDATA[<p>Trip report for a one-week vacation on Kauai (Hawaii), April 8th–15th.</p>
-<h3 id="Day-1"><a href="#Day-1" class="headerlink" title="Day 1"></a>Day 1</h3><p>Arrived in Lihue in the evening. Picked up our rental car from Hertz (1 min shuttle drive from the terminal). Upgraded the car to a Subaru Forester (AWD) due to some concern about the condition of a road we intended to drive the next day. Checked in at our hotel, the <a href="http://www.astonhotels.com/aston/propertyOverview.do?propertyGroupId=45463">Aston Islander on the Beach</a> in Kapaa [<a href="http://www.tripadvisor.com/ShowUserReviews-g60616-d87217-r61767061-Aston_Islander_on_the_Beach-Kapaa_Kauai_Hawaii.html">My Review</a>].</p>
-<h3 id="Day-2"><a href="#Day-2" class="headerlink" title="Day 2"></a>Day 2</h3><p>Got our <a href="http://www.hawaiistateparks.org/parks/kauai/">state park camping permits</a> in Lihue. Spent almost an hour waiting for the paperwork to be completed, but was glad we had been able to get all the permits we wanted on short notice (advance reservations of up to one year are sometimes required). Bought groceries for camping and to stock up our hotel fridge. Didn’t manage to get hold of a gas canister for our camping stove, so we’d have to make do with a Sterno. Bought topo maps at the museum shop. Rented snorkeling gear at <a href="http://www.snorkelbob.com/">Snorkel Bob’s</a>.</p>
-<p>Drove around to the west side of the island. To get to Polihale Beach we had to drive the last few miles on a notorious dirt road. There had been a lot of rain prior to our arrival, and we had been warned when we got the permit that we’d get stuck for sure. But the road was starting to dry out, and we made it just fine (albeit covered with mud). Might even have made it with a compact car, but navigating the miles of potholes would have taken forever, and we’d have had to leave the car at the day use area at the end of the road. Found a beautiful spot to set up camp and walked up along the beach until we hit the end.</p>
-<div class="gallery">
-
-
-
-  
-    <div class="row">
-  
-
-  <div class="col-sm-4">
-    <div class="thumbnail">
-      <a href="https://goo.gl/photos/WXHNYDHu5zxnVcGs7"><img src="//lh4.ggpht.com/_GeX70u05z6k/S8lEdFGX1PE/AAAAAAAAops/3VmT1MemPPU/s160-c/PolihaleBeachApril2010.jpg"/></a>
-        <div class="caption">
-          Polihale Beach Photos
-        </div>
-    </div>
-  </div>
-
-  
-    </div>
-  
-
-
-
-</div>
-
-<h3 id="Day-3"><a href="#Day-3" class="headerlink" title="Day 3"></a>Day 3</h3><p>Drove back to Waimea and from there up to Koke’e State Park along the spectacular Waimea canyon. Stopped at the <a href="http://www.kokee.org/">Koke’e Museum</a> to ask about trail conditions. Started hiking from the end of the road at the Pu’uokila Lookout (amazing views down into Kalalau Valley and out into the ocean). Followed the (muddy) Pihea trail along the valley rim and then down into the Alakai Swamp (nice boardwalk). Followed the Alakai Trail from the intersection to its beginning at a picnic area with stunning views down Waimea Canyon. Headed back, with a small detour up Pihea Peak. Stayed at the Koke’e campground (near the museum).</p>
-<div class="gallery">
-
-
-
-  
-    <div class="row">
-  
-
-  <div class="col-sm-4">
-    <div class="thumbnail">
-      <a href="https://goo.gl/photos/YRBAvyC9mp3DfLJh7"><img src="//lh3.ggpht.com/_GeX70u05z6k/S8q3Ixzuc8E/AAAAAAAAo7k/CXpNsMbcUZo/s160-c/AlakaiSwampApril2010.jpg"/></a>
-        <div class="caption">
-          Alakai Swamp Photos
-        </div>
-    </div>
-  </div>
-
-  
-    </div>
-  
-
-
-
-</div>
-
-<h3 id="Day-4"><a href="#Day-4" class="headerlink" title="Day 4"></a>Day 4</h3><p>Drove down to Po’ipu. Po’ipu Beach looked a bit crowded, but we didn’t have trouble finding parking. The snorkeling turned out to be quite simple: Just had to stick the head underwater and watch all kinds of colorful fish swim up. Next we went on a (guided) tour of the Allerton Garden. They had some pretty amazing flowers and fruits growing there. Too bad the guide was more focused on keeping the group entertained with football jokes than lecturing… Before we headed back to the hotel to clean our gear and get a good night’s sleep, we were glad we checked out the “Spouting Horn” blowhole across the road from the garden [<a href="http://www.youtube.com/watch?v=PJfSqJ2s7hc">Movie</a>].</p>
-<div class="gallery">
-
-
-
-  
-    <div class="row">
-  
-
-  <div class="col-sm-4">
-    <div class="thumbnail">
-      <a href="https://goo.gl/photos/MmeeNwf2agz6PvsM7"><img src="//lh4.ggpht.com/_GeX70u05z6k/S8wH0bJfRCE/AAAAAAAApyw/zK7AzyQZ7bM/s160-c/AllertonGardenApril2010.jpg"/></a>
-        <div class="caption">
-          Allerton Garden Photos
-        </div>
-    </div>
-  </div>
-
-  
-    </div>
-  
-
-
-
-</div>
-
-<h3 id="Day-5"><a href="#Day-5" class="headerlink" title="Day 5"></a>Day 5</h3><p>Got up early and drove to the other end of the road, Ke’e beach, from where we hiked the Kalalau trail along the Napali coast 11 miles to Kalalau Beach. The trail is notorious for some scary bits along cliffs, but, being used to hiking in the mountains, we did just fine. On the other hand we lost a lot of time slipping along muddy sections of the trail (the first 2 miles were worst). Not to mention time lost crossing several streams (though none more than knee-deep) and filtering water. We also went through several cycles of getting rained on and drying out again, never bothered getting out our rain jackets. Reached Kalalau Valley as the sun was setting. The evening light combined with a rainbow or two made for a very scenic setting. By the time we reached the campground at the other end of the valley, it was dark. Surprised to find the campground packed; took us a while to find an even spot between the tents. </p>
-<iframe src="https://connect.garmin.com/modern/activity/embed/30268031" title="Kalalau Trail" width="465" height="500" frameborder="0"></iframe>
-
-<h3 id="Day-6"><a href="#Day-6" class="headerlink" title="Day 6"></a>Day 6</h3><p>Wished we had a day to explore the valley and talk to the friendly “locals”, but we had to head back out…</p>
-<div class="gallery">
-
-
-
-  
-    <div class="row">
-  
-
-  <div class="col-sm-4">
-    <div class="thumbnail">
-      <a href="https://goo.gl/photos/7fToCmgpF83JpwwQ8"><img src="//lh3.ggpht.com/_GeX70u05z6k/S8wBfGhz3xE/AAAAAAAApyk/nbryrDXxDbo/s160-c/KalalauTrailApril2010.jpg"/></a>
-        <div class="caption">
-          Kalalau Trail Photos
-        </div>
-    </div>
-  </div>
-
-  
-    </div>
-  
-
-
-
-</div>
-
-<h3 id="Day-7"><a href="#Day-7" class="headerlink" title="Day 7"></a>Day 7</h3><p>Long list of things to do on our last day: Find sea turtles (got lucky in the area next to Brennecker’s Beach, there was even a rare monk seal there). Visit the Museum in Lihue (no stunning exhibits, but interesting nevertheless). Return rented snorkeling gear. Clean our gear (and rental car). Return the snorkeling equipment. Buy gifts. Mail postcards. Print boarding passes. Even managed to swing by the Opaeka’a (yawn) and Wailua (wow) Falls [<a href="http://www.youtube.com/watch?v=DpTl_Ohjafc">Movie</a>].</p>
-<h3 id="Day-8"><a href="#Day-8" class="headerlink" title="Day 8"></a>Day 8</h3><p>Our flight left early in the morning. On our last day a cold front had hit Hawaii; and since the weather back home in Seattle was nice, there was almost no noticeable difference when we got off the plane!</p>
-<h3 id="Useful-Resources"><a href="#Useful-Resources" class="headerlink" title="Useful Resources"></a>Useful Resources</h3><ul>
-<li><a href="http://www.amazon.com/Ultimate-Kauai-Guidebook-Revealed/dp/0971727953">Ultimate Kauai Guidebook</a> incl <a href="http://www.wizardpub.com/kauai/kauupdate.html">Updates</a> [<a href="http://www.amazon.com/review/R1YHVCI5D2W8WH/ref=cm_cr_rdp_perm">My Review</a>]</li>
-<li><a href="http://www.tripadvisor.com/ShowForum-g29218-i304-Kauai_Hawaii.html">Kauai Forum</a> at TripAdvisor – had all questions the guidebook didn’t cover answered there</li>
-<li><a href="http://www.kauaiexplorer.com/">Kauai Explorer</a> – ocean report and list of beaches and hiking trails</li>
-<li><a href="http://www.wrcc.dri.edu/narratives/HAWAII.htm">Climate of Hawaii</a> – some background information required to make sense of local weather forecasts</li>
-<li>National Weather Service: <a href="http://forecast.weather.gov/product.php?site=NWS&amp;issuedby=HFO&amp;product=AFD&amp;format=txt">Area Forecast</a>; <a href="http://forecast.weather.gov/MapClick.php?zoneid=HIZ002&amp;TextType=1">Windward</a>, <a href="http://forecast.weather.gov/MapClick.php?zoneid=HIZ003&amp;TextType=1">Leeward</a> and <a href="http://forecast.weather.gov/MapClick.php?zoneid=HIZ004&amp;TextType=1">Mountain</a> Forecasts</li>
-<li><a href="http://www.priceline.com/">Priceline.com</a> – first time I used them, but seemed to work great for getting a good deal on the flight + hotel + car rental</li>
-</ul>
-]]></content>
+    <content type="html"><![CDATA[<p>Trip report for a one-week vacation on Kauai (Hawaii), April 8th–15th.</p><h3 id="Day-1"><a href="#Day-1" class="headerlink" title="Day 1"></a>Day 1</h3><p>Arrived in Lihue in the evening. Picked up our rental car from Hertz (1 min shuttle drive from the terminal). Upgraded the car to a Subaru Forester (AWD) due to some concern about the condition of a road we intended to drive the next day. Checked in at our hotel, the <a href="http://www.astonhotels.com/aston/propertyOverview.do?propertyGroupId=45463">Aston Islander on the Beach</a> in Kapaa [<a href="http://www.tripadvisor.com/ShowUserReviews-g60616-d87217-r61767061-Aston_Islander_on_the_Beach-Kapaa_Kauai_Hawaii.html">My Review</a>].</p><h3 id="Day-2"><a href="#Day-2" class="headerlink" title="Day 2"></a>Day 2</h3><p>Got our <a href="http://www.hawaiistateparks.org/parks/kauai/">state park camping permits</a> in Lihue. Spent almost an hour waiting for the paperwork to be completed, but was glad we had been able to get all the permits we wanted on short notice (advance reservations of up to one year are sometimes required). Bought groceries for camping and to stock up our hotel fridge. Didn’t manage to get hold of a gas canister for our camping stove, so we’d have to make do with a Sterno. Bought topo maps at the museum shop. Rented snorkeling gear at <a href="http://www.snorkelbob.com/">Snorkel Bob’s</a>.</p><p>Drove around to the west side of the island. To get to Polihale Beach we had to drive the last few miles on a notorious dirt road. There had been a lot of rain prior to our arrival, and we had been warned when we got the permit that we’d get stuck for sure. But the road was starting to dry out, and we made it just fine (albeit covered with mud). Might even have made it with a compact car, but navigating the miles of potholes would have taken forever, and we’d have had to leave the car at the day use area at the end of the road. Found a beautiful spot to set up camp and walked up along the beach until we hit the end.</p><div class="gallery">      <div class="row">    <div class="col-sm-4">    <div class="thumbnail">      <a href="https://goo.gl/photos/WXHNYDHu5zxnVcGs7"><img src="//lh4.ggpht.com/_GeX70u05z6k/S8lEdFGX1PE/AAAAAAAAops/3VmT1MemPPU/s160-c/PolihaleBeachApril2010.jpg"/></a>        <div class="caption">          Polihale Beach Photos        </div>    </div>  </div>      </div>  </div><h3 id="Day-3"><a href="#Day-3" class="headerlink" title="Day 3"></a>Day 3</h3><p>Drove back to Waimea and from there up to Koke’e State Park along the spectacular Waimea canyon. Stopped at the <a href="http://www.kokee.org/">Koke’e Museum</a> to ask about trail conditions. Started hiking from the end of the road at the Pu’uokila Lookout (amazing views down into Kalalau Valley and out into the ocean). Followed the (muddy) Pihea trail along the valley rim and then down into the Alakai Swamp (nice boardwalk). Followed the Alakai Trail from the intersection to its beginning at a picnic area with stunning views down Waimea Canyon. Headed back, with a small detour up Pihea Peak. Stayed at the Koke’e campground (near the museum).</p><div class="gallery">      <div class="row">    <div class="col-sm-4">    <div class="thumbnail">      <a href="https://goo.gl/photos/YRBAvyC9mp3DfLJh7"><img src="//lh3.ggpht.com/_GeX70u05z6k/S8q3Ixzuc8E/AAAAAAAAo7k/CXpNsMbcUZo/s160-c/AlakaiSwampApril2010.jpg"/></a>        <div class="caption">          Alakai Swamp Photos        </div>    </div>  </div>      </div>  </div><h3 id="Day-4"><a href="#Day-4" class="headerlink" title="Day 4"></a>Day 4</h3><p>Drove down to Po’ipu. Po’ipu Beach looked a bit crowded, but we didn’t have trouble finding parking. The snorkeling turned out to be quite simple: Just had to stick the head underwater and watch all kinds of colorful fish swim up. Next we went on a (guided) tour of the Allerton Garden. They had some pretty amazing flowers and fruits growing there. Too bad the guide was more focused on keeping the group entertained with football jokes than lecturing… Before we headed back to the hotel to clean our gear and get a good night’s sleep, we were glad we checked out the “Spouting Horn” blowhole across the road from the garden [<a href="http://www.youtube.com/watch?v=PJfSqJ2s7hc">Movie</a>].</p><div class="gallery">      <div class="row">    <div class="col-sm-4">    <div class="thumbnail">      <a href="https://goo.gl/photos/MmeeNwf2agz6PvsM7"><img src="//lh4.ggpht.com/_GeX70u05z6k/S8wH0bJfRCE/AAAAAAAApyw/zK7AzyQZ7bM/s160-c/AllertonGardenApril2010.jpg"/></a>        <div class="caption">          Allerton Garden Photos        </div>    </div>  </div>      </div>  </div><h3 id="Day-5"><a href="#Day-5" class="headerlink" title="Day 5"></a>Day 5</h3><p>Got up early and drove to the other end of the road, Ke’e beach, from where we hiked the Kalalau trail along the Napali coast 11 miles to Kalalau Beach. The trail is notorious for some scary bits along cliffs, but, being used to hiking in the mountains, we did just fine. On the other hand we lost a lot of time slipping along muddy sections of the trail (the first 2 miles were worst). Not to mention time lost crossing several streams (though none more than knee-deep) and filtering water. We also went through several cycles of getting rained on and drying out again, never bothered getting out our rain jackets. Reached Kalalau Valley as the sun was setting. The evening light combined with a rainbow or two made for a very scenic setting. By the time we reached the campground at the other end of the valley, it was dark. Surprised to find the campground packed; took us a while to find an even spot between the tents. </p><iframe src="https://connect.garmin.com/modern/activity/embed/30268031" title="Kalalau Trail" width="465" height="500" frameborder="0"></iframe><h3 id="Day-6"><a href="#Day-6" class="headerlink" title="Day 6"></a>Day 6</h3><p>Wished we had a day to explore the valley and talk to the friendly “locals”, but we had to head back out…</p><div class="gallery">      <div class="row">    <div class="col-sm-4">    <div class="thumbnail">      <a href="https://goo.gl/photos/7fToCmgpF83JpwwQ8"><img src="//lh3.ggpht.com/_GeX70u05z6k/S8wBfGhz3xE/AAAAAAAApyk/nbryrDXxDbo/s160-c/KalalauTrailApril2010.jpg"/></a>        <div class="caption">          Kalalau Trail Photos        </div>    </div>  </div>      </div>  </div><h3 id="Day-7"><a href="#Day-7" class="headerlink" title="Day 7"></a>Day 7</h3><p>Long list of things to do on our last day: Find sea turtles (got lucky in the area next to Brennecker’s Beach, there was even a rare monk seal there). Visit the Museum in Lihue (no stunning exhibits, but interesting nevertheless). Return rented snorkeling gear. Clean our gear (and rental car). Return the snorkeling equipment. Buy gifts. Mail postcards. Print boarding passes. Even managed to swing by the Opaeka’a (yawn) and Wailua (wow) Falls [<a href="http://www.youtube.com/watch?v=DpTl_Ohjafc">Movie</a>].</p><h3 id="Day-8"><a href="#Day-8" class="headerlink" title="Day 8"></a>Day 8</h3><p>Our flight left early in the morning. On our last day a cold front had hit Hawaii; and since the weather back home in Seattle was nice, there was almost no noticeable difference when we got off the plane!</p><h3 id="Useful-Resources"><a href="#Useful-Resources" class="headerlink" title="Useful Resources"></a>Useful Resources</h3><ul><li><a href="http://www.amazon.com/Ultimate-Kauai-Guidebook-Revealed/dp/0971727953">Ultimate Kauai Guidebook</a> incl <a href="http://www.wizardpub.com/kauai/kauupdate.html">Updates</a> [<a href="http://www.amazon.com/review/R1YHVCI5D2W8WH/ref=cm_cr_rdp_perm">My Review</a>]</li><li><a href="http://www.tripadvisor.com/ShowForum-g29218-i304-Kauai_Hawaii.html">Kauai Forum</a> at TripAdvisor – had all questions the guidebook didn’t cover answered there</li><li><a href="http://www.kauaiexplorer.com/">Kauai Explorer</a> – ocean report and list of beaches and hiking trails</li><li><a href="http://www.wrcc.dri.edu/narratives/HAWAII.htm">Climate of Hawaii</a> – some background information required to make sense of local weather forecasts</li><li>National Weather Service: <a href="http://forecast.weather.gov/product.php?site=NWS&amp;issuedby=HFO&amp;product=AFD&amp;format=txt">Area Forecast</a>; <a href="http://forecast.weather.gov/MapClick.php?zoneid=HIZ002&amp;TextType=1">Windward</a>, <a href="http://forecast.weather.gov/MapClick.php?zoneid=HIZ003&amp;TextType=1">Leeward</a> and <a href="http://forecast.weather.gov/MapClick.php?zoneid=HIZ004&amp;TextType=1">Mountain</a> Forecasts</li><li><a href="http://www.priceline.com/">Priceline.com</a> – first time I used them, but seemed to work great for getting a good deal on the flight + hotel + car rental</li></ul>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;Trip report for a one-week vacation on Kauai (Hawaii), April 8th–15th.&lt;/p&gt;
+      
+      
+        &lt;p&gt;Trip report for a one-week vacation on Kauai (Hawaii), April 8th–15th.&lt;/p&gt;
 &lt;h3 id=&quot;Day-1&quot;&gt;&lt;a href=&quot;#Day-1&quot; class=&quot;headerlink&quot; title=&quot;Day 
+      
     
     </summary>
     
@@ -737,78 +479,21 @@
     <link href="http://eric.jain.name/2010/01/22/hosting-applets-in-google-docs/"/>
     <id>http://eric.jain.name/2010/01/22/hosting-applets-in-google-docs/</id>
     <published>2010-01-22T08:00:00.000Z</published>
-    <updated>2017-02-28T08:18:02.961Z</updated>
+    <updated>2017-02-28T08:18:02.962Z</updated>
     
-    <content type="html"><![CDATA[<p>Google Docs recently added support for <a href="http://docs.google.com/support/bin/answer.py?answer=50092">uploading arbitrary files</a> (up to 250MB large). Can this be used to host Java applets?</p>
-<p>I uploaded a jar file containing a simple test applet to Google Docs and referenced it like so:</p>
-<pre><code>&lt;applet width=&quot;440&quot; height=&quot;60&quot; code=&quot;JavaVersionDisplayApplet.class&quot; codebase=&quot;http://docs.google.com/&quot; archive=&quot;uc?id=0B9ANnqvnRtroOTM5YWE3YmMtMGZkMy00ZGE5LWE2NWUtOGZhNzk5MzA2NzBk&quot;&gt;&lt;/applet&gt;
-</code></pre><p>The result:</p>
-<applet width="440" height="60" code="JavaVersionDisplayApplet.class" codebase="http://docs.google.com/" archive="uc?id=0B9ANnqvnRtroOTM5YWE3YmMtMGZkMy00ZGE5LWE2NWUtOGZhNzk5MzA2NzBk"></applet>]]></content>
+    <content type="html"><![CDATA[<p>Google Docs recently added support for <a href="http://docs.google.com/support/bin/answer.py?answer=50092">uploading arbitrary files</a> (up to 250MB large). Can this be used to host Java applets?</p><p>I uploaded a jar file containing a simple test applet to Google Docs and referenced it like so:</p><pre><code>&lt;applet width=&quot;440&quot; height=&quot;60&quot; code=&quot;JavaVersionDisplayApplet.class&quot; codebase=&quot;http://docs.google.com/&quot; archive=&quot;uc?id=0B9ANnqvnRtroOTM5YWE3YmMtMGZkMy00ZGE5LWE2NWUtOGZhNzk5MzA2NzBk&quot;&gt;&lt;/applet&gt;</code></pre><p>The result:</p><applet width="440" height="60" code="JavaVersionDisplayApplet.class" codebase="http://docs.google.com/" archive="uc?id=0B9ANnqvnRtroOTM5YWE3YmMtMGZkMy00ZGE5LWE2NWUtOGZhNzk5MzA2NzBk"></applet>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;Google Docs recently added support for &lt;a href=&quot;http://docs.google.com/support/bin/answer.py?answer=50092&quot;&gt;uploading arbitrary files&lt;/a&gt; 
+      
+      
+        &lt;p&gt;Google Docs recently added support for &lt;a href=&quot;http://docs.google.com/support/bin/answer.py?answer=50092&quot;&gt;uploading arbitrary files&lt;/a&gt; 
+      
     
     </summary>
     
     
       <category term="Programming" scheme="http://eric.jain.name/tags/programming/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Sharing Tracklogs</title>
-    <link href="http://eric.jain.name/2009/11/12/sharing-tracklogs/"/>
-    <id>http://eric.jain.name/2009/11/12/sharing-tracklogs/</id>
-    <published>2009-11-12T08:00:00.000Z</published>
-    <updated>2017-02-27T08:12:51.507Z</updated>
-    
-    <content type="html"><![CDATA[<p>While hiking, I often carry along a <a href="http://www.garmin.com/products/etrexH/">small GPS device</a> to record my tracks. This is not just useful in case I get lost and need to backtrack, but also allows me to <a href="http://www.robogeo.com/">geotag</a> my pictures before <a href="https://plus.google.com/collection/ctuBZ">uploading</a> them. Plus it can be fun to review a hike in Google Earth. What about sharing tracklogs? This can be valuable when hiking in areas with outdated maps or maps hat don’t have all trails. So I had a look at some of the existing websites for sharing GPS tracklogs–here’s what I found.</p>
-<div class="gallery">
-
-
-
-  
-    <div class="row">
-  
-
-  <div class="col-sm-4">
-    <div class="thumbnail">
-      <a href="20091101.gpx"><img src="//lh5.ggpht.com/_GeX70u05z6k/Su5n9DeylLI/AAAAAAAAgB4/z4L-IrVJsIM/s320/20091101-tracklog.jpg"/></a>
-        <div class="caption">
-          Tracklog in Google Earth
-        </div>
-    </div>
-  </div>
-
-  
-    </div>
-  
-
-
-
-</div>
-
-<h3 id="TrailRegistry"><a href="#TrailRegistry" class="headerlink" title="TrailRegistry"></a><a href="http://trailregistry.com/">TrailRegistry</a></h3><p>TrailRegistry appears to be one of the oldest sites for sharing tracklogs. It also has the smartest approach, using a <a href="http://www.topofusion.com/network.php">network algorithm</a> to consolidate overlapping tracklogs and remove noise. Unfortunately the site doesn’t appear to have had much effort invested into it since it was set up in 2003.</p>
-<h3 id="GPXchange"><a href="#GPXchange" class="headerlink" title="GPXchange"></a><a href="http://www.gpxchange.com/">GPXchange</a></h3><p>GPXchange also appears to have been around since about 2003. The interface is similarly lacking and trail coverage isn’t great. No attempt is made to consolidate tracklogs.</p>
-<h3 id="GpsXChange-com"><a href="#GpsXChange-com" class="headerlink" title="GpsXChange.com"></a><a href="http://www.gpsxchange.com/">GpsXChange.com</a></h3><p>GpsXChange.com is a simple forum where people can post tracklogs. Seems to have been around since circa 2006 – like the following sites. Finding a tracklog requires searching the forums e.g. with a trail name. There doesn’t appear to be a huge amount of participation.</p>
-<h3 id="Redtrails"><a href="#Redtrails" class="headerlink" title="Redtrails"></a><a href="http://redtrails.com/">Redtrails</a></h3><p>Redtrails is based on the trail maps compiled by <a href="http://switchbacks.com/maps/NW_Trails.html">Northwest Trails</a>, where you can submit tracklogs (and wait for them to be integrated into a consolidated trail map database which is released every month or so). This is by far the most comprehensive set of trails (for Washington State) that I came across.</p>
-<h3 id="EveryTrail"><a href="#EveryTrail" class="headerlink" title="EveryTrail"></a><a href="http://www.everytrail.com/">EveryTrail</a></h3><p>EveryTrail is a Web 2.0-ish site where you can share a trip by uploading a tracklog and some pictures. Nice site to browse around, but if you are looking for a specific trail, your chances aren’t to good (unless it happens to be a major tourist attraction). Requires login to download raw tracklogs.</p>
-<h3 id="Wikiloc"><a href="#Wikiloc" class="headerlink" title="Wikiloc"></a><a href="http://www.wikiloc.com/">Wikiloc</a></h3><p>Similar to EveryTrail. The interface is a bit less cluttered interface but I found only a dozen hiking trails for all of Washington State. Also requires login to download raw tracklogs.</p>
-<h3 id="Garmin-Connect"><a href="#Garmin-Connect" class="headerlink" title="Garmin Connect"></a><a href="http://connect.garmin.com/">Garmin Connect</a></h3><p>The focus of this site seems to be more on keeping track of your fitness than providing hiking trail maps (e.g. it will show additional information such as the heart rate, if recorded), but it has the best interface for looking at tracklogs. There’s a reasonable amount of trails. Exports raw tracklogs in Garmin’s TCX rather than in the standard GPX format.</p>
-<h3 id="Trails-com"><a href="#Trails-com" class="headerlink" title="Trails.com"></a><a href="http://www.trails.com/">Trails.com</a></h3><p>This site has been around since at least 2000, but they just started experimenting with letting people upload tracklogs. Tracklogs are attached to trail descriptions taken from books. But I couldn’t get this feature to work yet…</p>
-<h3 id="In-conclusion"><a href="#In-conclusion" class="headerlink" title="(In)conclusion"></a>(In)conclusion</h3><p>There is no shortage of options for uploading tracklogs. The ideal site would both store individual tracklogs and aggregate them into consensus trails – while making use of contextual information (How long ago was a tracklog recorded? During what season? Using what device? How reliable is the submitter?). Such as site does not appear to exist at the moment.</p>
-<p>I’m not sure I’d bother submitting my (sometimes messy) tracklogs to sites such as TrailRegistry or Northwest Trails. But I do want to make sure that the raw data is available to anyone who wants to crawl it. Hosting the raw files on this blog is an option, but that makes finding the files difficult for anyone but Google. So I’ll probably go with Garmin Connect or Gp(s)XChange.com…</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;While hiking, I often carry along a &lt;a href=&quot;http://www.garmin.com/products/etrexH/&quot;&gt;small GPS device&lt;/a&gt; to record my tracks. This is no
-    
-    </summary>
-    
-    
-      <category term="Quantified Self" scheme="http://eric.jain.name/tags/quantified-self/"/>
     
   </entry>
   
