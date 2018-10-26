@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://eric.jain.name/"/>
-  <updated>2018-09-25T04:14:08.535Z</updated>
+  <updated>2018-10-26T04:03:50.628Z</updated>
   <id>http://eric.jain.name/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Fake Trails</title>
+    <link href="http://eric.jain.name/2018/10/25/fake-trails/"/>
+    <id>http://eric.jain.name/2018/10/25/fake-trails/</id>
+    <published>2018-10-25T07:00:00.000Z</published>
+    <updated>2018-10-26T04:03:50.628Z</updated>
+    
+    <content type="html"><![CDATA[<p>One in five pictures I take while hiking are pictures of the trails themselves. Previously, I experimented with <a href="https://github.com/ejain/n-of-1-ml/blob/master/transfer_learning.ipynb">using machine learning to automatically tag those pictures</a>. After reading about how machine learning can be used not just for image classification, but also for <a href="https://arxiv.org/abs/1511.06434">generating images</a>, I was curious to see what would happen if I tried this approach on my pictures.</p><p>Here are a few randomly selected pictures of trails, out of the more than 5,000 pictures of trails I have taken over the past 10 years:</p><p><img src="real_samples.png" alt="actual trails"></p><p>After a bit of number crunching with a <em>Deep Convolutional Generative Adversarial Network</em> (where part of the network is trained to fake images, while the other part is simultaneously being trained to detect fake images), here are a few randomly generated trail pictures: </p><p><img src="fake_samples_epoch_275.png" alt="fake trails"></p><p>There is some blurriness and some distortions, but overall the results are pretty convincing! There are forest trails, trails through alpine meadows, rocky trails, and even a few snow-covered trails. But none of these trails exist in the real world.</p><h2 id="Notes"><a href="#Notes" class="headerlink" title="Notes"></a>Notes</h2><ul><li><p>I ended up using <a href="https://pytorch.org/">PyTorch</a>, which happened to have <a href="https://github.com/pytorch/examples/tree/master/dcgan">suitable sample code</a>. <a href="https://keras.io/">Keras</a> (my go-to framework) turned out to be a bit too high-level to handle this kind of problem efficiently, and <a href="https://www.tensorflow.org/">Tensorflow</a>, being more low-level, would have required more code.</p></li><li><p>Unfortunately, scaling up beyond 64x64 thumbnails to 128x128 or larger turns out to not be a simple matter of throwing more computing resources at the problem.</p></li><li><p>The network was trained for 275 epochs (iterations through the entire data set). This animation shows how the generated images improved over time: </p><iframe width="560" height="315" src="https://www.youtube.com/embed/EtQbLnecW0g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></li><li><p>The training was done on a fast machine with a GPU (obtained from <a href="https://aws.amazon.com/sagemaker/">Amazon SageMaker</a> for a total cost of about $2); running the same code on my laptop would have taken days, rather than just under an hour.</p></li><li><p>Found <a href="https://github.com/soumith/ganhacks">this list of tips</a> that might further improve the results.</p></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;One in five pictures I take while hiking are pictures of the trails themselves. Previously, I experimented with &lt;a href=&quot;https://github.c
+      
+    
+    </summary>
+    
+    
+      <category term="Programming" scheme="http://eric.jain.name/tags/programming/"/>
+    
+  </entry>
   
   <entry>
     <title>Panna Cotta</title>
@@ -471,29 +494,6 @@
     
     
       <category term="Travel" scheme="http://eric.jain.name/tags/travel/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hosting Applets in Google Docs</title>
-    <link href="http://eric.jain.name/2010/01/22/hosting-applets-in-google-docs/"/>
-    <id>http://eric.jain.name/2010/01/22/hosting-applets-in-google-docs/</id>
-    <published>2010-01-22T08:00:00.000Z</published>
-    <updated>2017-02-28T08:18:02.962Z</updated>
-    
-    <content type="html"><![CDATA[<p>Google Docs recently added support for <a href="http://docs.google.com/support/bin/answer.py?answer=50092">uploading arbitrary files</a> (up to 250MB large). Can this be used to host Java applets?</p><p>I uploaded a jar file containing a simple test applet to Google Docs and referenced it like so:</p><pre><code>&lt;applet width=&quot;440&quot; height=&quot;60&quot; code=&quot;JavaVersionDisplayApplet.class&quot; codebase=&quot;http://docs.google.com/&quot; archive=&quot;uc?id=0B9ANnqvnRtroOTM5YWE3YmMtMGZkMy00ZGE5LWE2NWUtOGZhNzk5MzA2NzBk&quot;&gt;&lt;/applet&gt;</code></pre><p>The result:</p><applet width="440" height="60" code="JavaVersionDisplayApplet.class" codebase="http://docs.google.com/" archive="uc?id=0B9ANnqvnRtroOTM5YWE3YmMtMGZkMy00ZGE5LWE2NWUtOGZhNzk5MzA2NzBk"></applet>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;Google Docs recently added support for &lt;a href=&quot;http://docs.google.com/support/bin/answer.py?answer=50092&quot;&gt;uploading arbitrary files&lt;/a&gt; 
-      
-    
-    </summary>
-    
-    
-      <category term="Programming" scheme="http://eric.jain.name/tags/programming/"/>
     
   </entry>
   
