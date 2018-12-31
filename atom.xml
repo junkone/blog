@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://eric.jain.name/"/>
-  <updated>2018-12-06T00:23:04.569Z</updated>
+  <updated>2018-12-31T06:55:03.096Z</updated>
   <id>http://eric.jain.name/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Tracking Blood Pressure</title>
+    <link href="http://eric.jain.name/2018/12/30/tracking-blood-pressure/"/>
+    <id>http://eric.jain.name/2018/12/30/tracking-blood-pressure/</id>
+    <published>2018-12-30T08:00:00.000Z</published>
+    <updated>2018-12-31T06:55:03.096Z</updated>
+    
+    <content type="html"><![CDATA[<p>Blood pressure readings taken at my annual checkups (or prior to blood draws) have varied between perfectly good to borderline pre-hypertension over the past few years. This is likely just a case of <a href="https://en.wikipedia.org/wiki/White_coat_hypertension">white coat hypertension</a>, but there is also <a href="https://www.nature.com/articles/hr200763">masked hypertension</a>, where a person’s blood pressure is even higher outside of the doctor’s office… So I wanted to get an idea of what my blood pressure range is under normal conditions, how much it varies from day to day, and <a href="https://www.adctoday.com/blog/why-my-blood-pressure-reading-so-high-10-factors-affect-bp-readings">what factors</a> affect my blood pressure readings.</p><h2 id="What-I-did"><a href="#What-I-did" class="headerlink" title="What I did"></a>What I did</h2><p><img src="device.jpg" alt="Greater Goods blood pressure monitor"></p><p>To take my own blood pressure readings, I bought a <a href="https://greatergoods.com/products/0604">Greater Goods blood pressure monitor</a> for $40. This device was rated good on accuracy, and supports exporting data in a spreadsheet via <a href="https://play.google.com/store/apps/details?id=com.dmdbrands.balancehealth">an app</a>.</p><p>Every morning for just over two months, after getting up and going through my usual morning routine (but before having breakfast), I took three consecutive blood pressure readings, about one minute apart.</p><p>On a few days I took additional readings to investigate factors that are know to influence blood pressure, and that might help explain the occasional, higher readings at the doctor’s office.</p><p>To verify the accuracy of the blood pressure monitor, I brought the monitor to my next physical exam, where I took a single reading right after the physician’s assistant had taken a reading with their more expensive device. The values matched almost exactly.</p><p>During the two months, there was no significant change in resting heart rate or blood pressure, body weight or composition, or activity levels.</p><h2 id="What-I-learned"><a href="#What-I-learned" class="headerlink" title="What I learned"></a>What I learned</h2><p><img src="daily.png" alt=""></p><p>The “perfectly good” blood pressure readings were likely a better reflection of my typical blood pressure than the “borderline pre-hypertension” readings.</p><p>Doing three consecutive readings is probably overkill: If the first two readings are within a few points of each other (as they almost always were), the third reading could be skipped.</p><p>Short (&lt;10 minute) <strong>exercise sessions</strong> increase blood pressure, but blood pressure is back to normal after relaxing for another 10 minutes.</p><p>Neither going to the gym nor hiking had an effect on the following day’s blood pressure, but there was a small, negative correlation between <strong>calories burned during the previous 7 days</strong> and my blood pressure.</p><p>Small changes in posture like holding the arm at a wrong angle affect my blood pressure readings, as does going from being dehydrated to being <strong>overhydrated</strong>, having a <strong>full bladder</strong>, or being in a <strong>cold room</strong>. These factors can each account for discrepancies of up to 10mmHg or more.</p><p>Blood pressure readings were slightly higher when I got up <strong>earlier in the morning</strong>. I didn’t take many readings throughout the day, but blood pressure appeared to be slightly elevated in the late afternoon and again in the evening, <a href="https://hellenicjcardiol.org/archive/full_text/2012/6/2012_6_432.pdf">as expected</a>.</p><p>I tried to <strong>increase salt intake</strong> for a week, but didn’t see any effect. Had planned to add a tablespoon of salt each day, but ended up adding no more than a teaspoon. This doesn’t mean that reducing my salt intake wouldn’t lower my blood pressure, or that my blood pressure wouldn’t rise if I continued on a high-salt diet for more than a week.</p><p><a href="https://www.ncbi.nlm.nih.gov/books/NBK482408/">Pulse pressure</a> has been proposed as an alternative measure of cardiovascular health. This measure correlated with systolic but not diastolic pressure. Neither systolic nor diastolic pressure were correlated with the heart rate (at rest).</p><h2 id="What-next"><a href="#What-next" class="headerlink" title="What next"></a>What next</h2><p>I don’t intend to continue taking daily blood pressure readings, but will continue to do so once a week or so, including before blood draws or other medical appointments.</p><p>I’ll share more detailed results at a <a href="https://www.meetup.com/Quantified-Self-Seattle/">Quantified Self Seattle Meetup</a> next year.</p><p>You can find the Jupyter Notebook used to process the data <a href="https://github.com/ejain/blog/blob/master/source/_posts/2018-12-30-tracking-blood-pressure/blood-pressure.ipynb">here</a>.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Blood pressure readings taken at my annual checkups (or prior to blood draws) have varied between perfectly good to borderline pre-hypert
+      
+    
+    </summary>
+    
+    
+      <category term="Quantified Self" scheme="http://eric.jain.name/tags/quantified-self/"/>
+    
+  </entry>
   
   <entry>
     <title>Tracking Blood Sugar</title>
@@ -231,6 +254,29 @@
   </entry>
   
   <entry>
+    <title>Smoothies</title>
+    <link href="http://eric.jain.name/2017/01/06/smoothies/"/>
+    <id>http://eric.jain.name/2017/01/06/smoothies/</id>
+    <published>2017-01-06T08:00:00.000Z</published>
+    <updated>2017-03-05T23:29:53.899Z</updated>
+    
+    <content type="html"><![CDATA[<p>Upgraded my breakfast from cereal with yoghurt to “smoothie bowls” last year. After a lot of experimenting, here’s what I’ve settled on (for now):</p><p><img src="ingredients.jpg" alt=""></p><ol><li>1 cup yoghurt</li><li>1 tsp spirulina</li><li>1 tsp chia seeds</li><li>2 tsp golden flaxseed meal</li><li>1 cup frozen fruit (mango, pineapple, strawberry, caranberry, blueberry, banana)</li><li>1 leaf collard green and lacinato kale</li></ol><p>I <a href="https://www.nutribulletpro.com/">blend this</a> for just under a minute, sprinkle some granola on top, and this is the result:</p><p><img src="bowl.jpg" alt=""></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Upgraded my breakfast from cereal with yoghurt to “smoothie bowls” last year. After a lot of experimenting, here’s what I’ve settled on (
+      
+    
+    </summary>
+    
+    
+      <category term="Recipe" scheme="http://eric.jain.name/tags/recipe/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Protein Shakes</title>
     <link href="http://eric.jain.name/2017/01/06/protein-shakes/"/>
     <id>http://eric.jain.name/2017/01/06/protein-shakes/</id>
@@ -247,29 +293,6 @@
 &lt;p&gt;&lt;img src=&quot;ingredients.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;1 cup milk (or ran
-      
-    
-    </summary>
-    
-    
-      <category term="Recipe" scheme="http://eric.jain.name/tags/recipe/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Smoothies</title>
-    <link href="http://eric.jain.name/2017/01/06/smoothies/"/>
-    <id>http://eric.jain.name/2017/01/06/smoothies/</id>
-    <published>2017-01-06T08:00:00.000Z</published>
-    <updated>2017-03-05T23:29:53.899Z</updated>
-    
-    <content type="html"><![CDATA[<p>Upgraded my breakfast from cereal with yoghurt to “smoothie bowls” last year. After a lot of experimenting, here’s what I’ve settled on (for now):</p><p><img src="ingredients.jpg" alt=""></p><ol><li>1 cup yoghurt</li><li>1 tsp spirulina</li><li>1 tsp chia seeds</li><li>2 tsp golden flaxseed meal</li><li>1 cup frozen fruit (mango, pineapple, strawberry, caranberry, blueberry, banana)</li><li>1 leaf collard green and lacinato kale</li></ol><p>I <a href="https://www.nutribulletpro.com/">blend this</a> for just under a minute, sprinkle some granola on top, and this is the result:</p><p><img src="bowl.jpg" alt=""></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;Upgraded my breakfast from cereal with yoghurt to “smoothie bowls” last year. After a lot of experimenting, here’s what I’ve settled on (
       
     
     </summary>
@@ -470,31 +493,6 @@
     
     
       <category term="Travel" scheme="http://eric.jain.name/tags/travel/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>OSGi and Eclipse RCP Talk</title>
-    <link href="http://eric.jain.name/2011/11/17/osgi-and-eclipse-rcp-talk/"/>
-    <id>http://eric.jain.name/2011/11/17/osgi-and-eclipse-rcp-talk/</id>
-    <published>2011-11-17T08:00:00.000Z</published>
-    <updated>2017-02-28T08:18:02.976Z</updated>
-    
-    <content type="html"><![CDATA[<p>I gave a talk at the <a href="http://www.seajug.org/">Seattle Java User Group</a> this week, where I talk about two technologies I use <a href="http://www.sciscogenetics.com/">at work</a>: The <a href="http://www.osgi.org/About/Technology">OSGi</a> module system, and the <a href="http://wiki.eclipse.org/index.php/Rich_Client_Platform">Eclipse Rich Client Platform</a>. Giving this talk was a good experience, and the audience was great. You can watch the talk below, or flip through <a href="https://www.slideshare.net/ejain/osgi-and-eclipse-rcp">the slides</a>.</p><iframe src="https://player.vimeo.com/video/32248135" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;I gave a talk at the &lt;a href=&quot;http://www.seajug.org/&quot;&gt;Seattle Java User Group&lt;/a&gt; this week, where I talk about two technologies I use &lt;a
-      
-    
-    </summary>
-    
-    
-      <category term="Life Science" scheme="http://eric.jain.name/tags/life-science/"/>
-    
-      <category term="Programming" scheme="http://eric.jain.name/tags/programming/"/>
     
   </entry>
   
