@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://eric.jain.name/"/>
+  <link href="https://eric.jain.name/"/>
   <updated>2019-03-27T16:46:06.434Z</updated>
-  <id>http://eric.jain.name/</id>
+  <id>https://eric.jain.name/</id>
   
   <author>
     <name>Eric Jain</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Tracking Blood Pressure</title>
-    <link href="http://eric.jain.name/2018/12/30/tracking-blood-pressure/"/>
-    <id>http://eric.jain.name/2018/12/30/tracking-blood-pressure/</id>
+    <link href="https://eric.jain.name/2018/12/30/tracking-blood-pressure/"/>
+    <id>https://eric.jain.name/2018/12/30/tracking-blood-pressure/</id>
     <published>2018-12-30T08:00:00.000Z</published>
     <updated>2019-03-27T16:46:06.434Z</updated>
     
@@ -35,14 +35,14 @@
     </summary>
     
     
-      <category term="Quantified Self" scheme="http://eric.jain.name/tags/quantified-self/"/>
+      <category term="Quantified Self" scheme="https://eric.jain.name/tags/quantified-self/"/>
     
   </entry>
   
   <entry>
     <title>Tracking Blood Sugar</title>
-    <link href="http://eric.jain.name/2018/11/25/tracking-blood-sugar/"/>
-    <id>http://eric.jain.name/2018/11/25/tracking-blood-sugar/</id>
+    <link href="https://eric.jain.name/2018/11/25/tracking-blood-sugar/"/>
+    <id>https://eric.jain.name/2018/11/25/tracking-blood-sugar/</id>
     <published>2018-11-25T08:00:00.000Z</published>
     <updated>2019-01-10T07:01:16.441Z</updated>
     
@@ -58,14 +58,14 @@
     </summary>
     
     
-      <category term="Quantified Self" scheme="http://eric.jain.name/tags/quantified-self/"/>
+      <category term="Quantified Self" scheme="https://eric.jain.name/tags/quantified-self/"/>
     
   </entry>
   
   <entry>
     <title>Chocolate Popcorn</title>
-    <link href="http://eric.jain.name/2018/11/22/chocolate-popcorn/"/>
-    <id>http://eric.jain.name/2018/11/22/chocolate-popcorn/</id>
+    <link href="https://eric.jain.name/2018/11/22/chocolate-popcorn/"/>
+    <id>https://eric.jain.name/2018/11/22/chocolate-popcorn/</id>
     <published>2018-11-22T08:00:00.000Z</published>
     <updated>2018-11-22T19:03:29.466Z</updated>
     
@@ -84,14 +84,14 @@
     </summary>
     
     
-      <category term="Recipe" scheme="http://eric.jain.name/tags/recipe/"/>
+      <category term="Recipe" scheme="https://eric.jain.name/tags/recipe/"/>
     
   </entry>
   
   <entry>
     <title>Fake Trails</title>
-    <link href="http://eric.jain.name/2018/10/25/fake-trails/"/>
-    <id>http://eric.jain.name/2018/10/25/fake-trails/</id>
+    <link href="https://eric.jain.name/2018/10/25/fake-trails/"/>
+    <id>https://eric.jain.name/2018/10/25/fake-trails/</id>
     <published>2018-10-25T07:00:00.000Z</published>
     <updated>2018-10-26T04:03:50.628Z</updated>
     
@@ -107,14 +107,14 @@
     </summary>
     
     
-      <category term="Programming" scheme="http://eric.jain.name/tags/programming/"/>
+      <category term="Programming" scheme="https://eric.jain.name/tags/programming/"/>
     
   </entry>
   
   <entry>
     <title>Panna Cotta</title>
-    <link href="http://eric.jain.name/2018/09/24/panna-cotta/"/>
-    <id>http://eric.jain.name/2018/09/24/panna-cotta/</id>
+    <link href="https://eric.jain.name/2018/09/24/panna-cotta/"/>
+    <id>https://eric.jain.name/2018/09/24/panna-cotta/</id>
     <published>2018-09-24T07:00:00.000Z</published>
     <updated>2018-09-25T04:14:08.535Z</updated>
     
@@ -133,14 +133,14 @@
     </summary>
     
     
-      <category term="Recipe" scheme="http://eric.jain.name/tags/recipe/"/>
+      <category term="Recipe" scheme="https://eric.jain.name/tags/recipe/"/>
     
   </entry>
   
   <entry>
     <title>Programmer Excuses</title>
-    <link href="http://eric.jain.name/2017/10/29/programmer-excuses/"/>
-    <id>http://eric.jain.name/2017/10/29/programmer-excuses/</id>
+    <link href="https://eric.jain.name/2017/10/29/programmer-excuses/"/>
+    <id>https://eric.jain.name/2017/10/29/programmer-excuses/</id>
     <published>2017-10-29T07:00:00.000Z</published>
     <updated>2017-10-29T21:33:20.981Z</updated>
     
@@ -158,16 +158,16 @@
     </summary>
     
     
-      <category term="Humor" scheme="http://eric.jain.name/tags/humor/"/>
+      <category term="Humor" scheme="https://eric.jain.name/tags/humor/"/>
     
-      <category term="Programming" scheme="http://eric.jain.name/tags/programming/"/>
+      <category term="Programming" scheme="https://eric.jain.name/tags/programming/"/>
     
   </entry>
   
   <entry>
     <title>Cascades Pika Watch</title>
-    <link href="http://eric.jain.name/2017/08/31/cascades-pika-watch/"/>
-    <id>http://eric.jain.name/2017/08/31/cascades-pika-watch/</id>
+    <link href="https://eric.jain.name/2017/08/31/cascades-pika-watch/"/>
+    <id>https://eric.jain.name/2017/08/31/cascades-pika-watch/</id>
     <published>2017-08-31T07:00:00.000Z</published>
     <updated>2017-09-01T01:09:01.494Z</updated>
     
@@ -187,8 +187,8 @@
   
   <entry>
     <title>First Aid Kit</title>
-    <link href="http://eric.jain.name/2017/03/17/first-aid-kit/"/>
-    <id>http://eric.jain.name/2017/03/17/first-aid-kit/</id>
+    <link href="https://eric.jain.name/2017/03/17/first-aid-kit/"/>
+    <id>https://eric.jain.name/2017/03/17/first-aid-kit/</id>
     <published>2017-03-17T07:00:00.000Z</published>
     <updated>2017-03-17T06:22:58.132Z</updated>
     
@@ -205,14 +205,14 @@
     </summary>
     
     
-      <category term="Gear" scheme="http://eric.jain.name/tags/gear/"/>
+      <category term="Gear" scheme="https://eric.jain.name/tags/gear/"/>
     
   </entry>
   
   <entry>
     <title>Vehicle Equipment</title>
-    <link href="http://eric.jain.name/2017/03/05/vehicle-equipment/"/>
-    <id>http://eric.jain.name/2017/03/05/vehicle-equipment/</id>
+    <link href="https://eric.jain.name/2017/03/05/vehicle-equipment/"/>
+    <id>https://eric.jain.name/2017/03/05/vehicle-equipment/</id>
     <published>2017-03-05T08:00:00.000Z</published>
     <updated>2017-07-19T21:19:21.843Z</updated>
     
@@ -228,14 +228,14 @@
     </summary>
     
     
-      <category term="Gear" scheme="http://eric.jain.name/tags/gear/"/>
+      <category term="Gear" scheme="https://eric.jain.name/tags/gear/"/>
     
   </entry>
   
   <entry>
     <title>Hexo</title>
-    <link href="http://eric.jain.name/2017/02/24/hexo/"/>
-    <id>http://eric.jain.name/2017/02/24/hexo/</id>
+    <link href="https://eric.jain.name/2017/02/24/hexo/"/>
+    <id>https://eric.jain.name/2017/02/24/hexo/</id>
     <published>2017-02-24T08:00:00.000Z</published>
     <updated>2017-03-12T06:44:28.740Z</updated>
     
@@ -254,9 +254,32 @@
   </entry>
   
   <entry>
+    <title>Smoothies</title>
+    <link href="https://eric.jain.name/2017/01/06/smoothies/"/>
+    <id>https://eric.jain.name/2017/01/06/smoothies/</id>
+    <published>2017-01-06T08:00:00.000Z</published>
+    <updated>2019-03-23T17:27:30.594Z</updated>
+    
+    <content type="html"><![CDATA[<p>Upgraded my breakfast from cereal with yoghurt to “smoothie bowls” last year. After a lot of experimenting, here’s what I’ve settled on (for now):</p><p><img src="ingredients.jpg" alt=""></p><ol><li>1 cup yoghurt</li><li>1 tsp spirulina</li><li>1 tsp chia seeds</li><li>2 tsp golden flaxseed meal</li><li>1 cup frozen fruit (mango, pineapple, strawberry, cranberry, blueberry, banana)</li><li>1 leaf collard green and lacinato kale</li></ol><p>I <a href="https://www.nutribulletpro.com/">blend this</a> for just under a minute, sprinkle some granola on top, and this is the result:</p><p><img src="bowl.jpg" alt=""></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Upgraded my breakfast from cereal with yoghurt to “smoothie bowls” last year. After a lot of experimenting, here’s what I’ve settled on (
+      
+    
+    </summary>
+    
+    
+      <category term="Recipe" scheme="https://eric.jain.name/tags/recipe/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Protein Shakes</title>
-    <link href="http://eric.jain.name/2017/01/06/protein-shakes/"/>
-    <id>http://eric.jain.name/2017/01/06/protein-shakes/</id>
+    <link href="https://eric.jain.name/2017/01/06/protein-shakes/"/>
+    <id>https://eric.jain.name/2017/01/06/protein-shakes/</id>
     <published>2017-01-06T08:00:00.000Z</published>
     <updated>2017-03-17T05:43:15.983Z</updated>
     
@@ -275,37 +298,14 @@
     </summary>
     
     
-      <category term="Recipe" scheme="http://eric.jain.name/tags/recipe/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Smoothies</title>
-    <link href="http://eric.jain.name/2017/01/06/smoothies/"/>
-    <id>http://eric.jain.name/2017/01/06/smoothies/</id>
-    <published>2017-01-06T08:00:00.000Z</published>
-    <updated>2019-03-23T17:27:30.594Z</updated>
-    
-    <content type="html"><![CDATA[<p>Upgraded my breakfast from cereal with yoghurt to “smoothie bowls” last year. After a lot of experimenting, here’s what I’ve settled on (for now):</p><p><img src="ingredients.jpg" alt=""></p><ol><li>1 cup yoghurt</li><li>1 tsp spirulina</li><li>1 tsp chia seeds</li><li>2 tsp golden flaxseed meal</li><li>1 cup frozen fruit (mango, pineapple, strawberry, cranberry, blueberry, banana)</li><li>1 leaf collard green and lacinato kale</li></ol><p>I <a href="https://www.nutribulletpro.com/">blend this</a> for just under a minute, sprinkle some granola on top, and this is the result:</p><p><img src="bowl.jpg" alt=""></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;Upgraded my breakfast from cereal with yoghurt to “smoothie bowls” last year. After a lot of experimenting, here’s what I’ve settled on (
-      
-    
-    </summary>
-    
-    
-      <category term="Recipe" scheme="http://eric.jain.name/tags/recipe/"/>
+      <category term="Recipe" scheme="https://eric.jain.name/tags/recipe/"/>
     
   </entry>
   
   <entry>
     <title>Subaru Crosstrek</title>
-    <link href="http://eric.jain.name/2016/09/17/subaru-crosstrek/"/>
-    <id>http://eric.jain.name/2016/09/17/subaru-crosstrek/</id>
+    <link href="https://eric.jain.name/2016/09/17/subaru-crosstrek/"/>
+    <id>https://eric.jain.name/2016/09/17/subaru-crosstrek/</id>
     <published>2016-09-17T07:00:00.000Z</published>
     <updated>2017-03-06T02:40:36.238Z</updated>
     
@@ -321,14 +321,14 @@
     </summary>
     
     
-      <category term="Gear" scheme="http://eric.jain.name/tags/gear/"/>
+      <category term="Gear" scheme="https://eric.jain.name/tags/gear/"/>
     
   </entry>
   
   <entry>
     <title>Flights in 2015</title>
-    <link href="http://eric.jain.name/2016/01/01/flights/"/>
-    <id>http://eric.jain.name/2016/01/01/flights/</id>
+    <link href="https://eric.jain.name/2016/01/01/flights/"/>
+    <id>https://eric.jain.name/2016/01/01/flights/</id>
     <published>2016-01-01T08:00:00.000Z</published>
     <updated>2017-02-27T01:30:40.937Z</updated>
     
@@ -344,14 +344,14 @@
     </summary>
     
     
-      <category term="Quantified Self" scheme="http://eric.jain.name/tags/quantified-self/"/>
+      <category term="Quantified Self" scheme="https://eric.jain.name/tags/quantified-self/"/>
     
   </entry>
   
   <entry>
     <title>Outdoor Trips in 2014</title>
-    <link href="http://eric.jain.name/2015/01/01/outdoor-trips/"/>
-    <id>http://eric.jain.name/2015/01/01/outdoor-trips/</id>
+    <link href="https://eric.jain.name/2015/01/01/outdoor-trips/"/>
+    <id>https://eric.jain.name/2015/01/01/outdoor-trips/</id>
     <published>2015-01-01T08:00:00.000Z</published>
     <updated>2017-02-25T06:21:35.186Z</updated>
     
@@ -367,14 +367,14 @@
     </summary>
     
     
-      <category term="Quantified Self" scheme="http://eric.jain.name/tags/quantified-self/"/>
+      <category term="Quantified Self" scheme="https://eric.jain.name/tags/quantified-self/"/>
     
   </entry>
   
   <entry>
     <title>Tableau &amp; Quantified Self</title>
-    <link href="http://eric.jain.name/2014/05/24/tableau-quantified-self/"/>
-    <id>http://eric.jain.name/2014/05/24/tableau-quantified-self/</id>
+    <link href="https://eric.jain.name/2014/05/24/tableau-quantified-self/"/>
+    <id>https://eric.jain.name/2014/05/24/tableau-quantified-self/</id>
     <published>2014-05-24T07:00:00.000Z</published>
     <updated>2017-02-25T06:20:19.808Z</updated>
     
@@ -390,14 +390,14 @@
     </summary>
     
     
-      <category term="Quantified Self" scheme="http://eric.jain.name/tags/quantified-self/"/>
+      <category term="Quantified Self" scheme="https://eric.jain.name/tags/quantified-self/"/>
     
   </entry>
   
   <entry>
     <title>EuroSeattle Startup Weekend</title>
-    <link href="http://eric.jain.name/2014/01/29/euroseattle-startup-weekend/"/>
-    <id>http://eric.jain.name/2014/01/29/euroseattle-startup-weekend/</id>
+    <link href="https://eric.jain.name/2014/01/29/euroseattle-startup-weekend/"/>
+    <id>https://eric.jain.name/2014/01/29/euroseattle-startup-weekend/</id>
     <published>2014-01-29T08:00:00.000Z</published>
     <updated>2017-02-28T08:18:03.015Z</updated>
     
@@ -413,14 +413,14 @@
     </summary>
     
     
-      <category term="Programming" scheme="http://eric.jain.name/tags/programming/"/>
+      <category term="Programming" scheme="https://eric.jain.name/tags/programming/"/>
     
   </entry>
   
   <entry>
     <title>API Prayer</title>
-    <link href="http://eric.jain.name/2013/10/11/api-prayer/"/>
-    <id>http://eric.jain.name/2013/10/11/api-prayer/</id>
+    <link href="https://eric.jain.name/2013/10/11/api-prayer/"/>
+    <id>https://eric.jain.name/2013/10/11/api-prayer/</id>
     <published>2013-10-11T07:00:00.000Z</published>
     <updated>2017-02-28T08:18:03.002Z</updated>
     
@@ -441,16 +441,16 @@
     </summary>
     
     
-      <category term="Humor" scheme="http://eric.jain.name/tags/humor/"/>
+      <category term="Humor" scheme="https://eric.jain.name/tags/humor/"/>
     
-      <category term="Programming" scheme="http://eric.jain.name/tags/programming/"/>
+      <category term="Programming" scheme="https://eric.jain.name/tags/programming/"/>
     
   </entry>
   
   <entry>
     <title>Lenovo Thinkpad T431s</title>
-    <link href="http://eric.jain.name/2013/07/05/lenovo-thinkpad-t431s/"/>
-    <id>http://eric.jain.name/2013/07/05/lenovo-thinkpad-t431s/</id>
+    <link href="https://eric.jain.name/2013/07/05/lenovo-thinkpad-t431s/"/>
+    <id>https://eric.jain.name/2013/07/05/lenovo-thinkpad-t431s/</id>
     <published>2013-07-05T07:00:00.000Z</published>
     <updated>2017-02-28T08:18:02.991Z</updated>
     
@@ -467,16 +467,16 @@
     </summary>
     
     
-      <category term="Programming" scheme="http://eric.jain.name/tags/programming/"/>
+      <category term="Programming" scheme="https://eric.jain.name/tags/programming/"/>
     
-      <category term="Review" scheme="http://eric.jain.name/tags/review/"/>
+      <category term="Review" scheme="https://eric.jain.name/tags/review/"/>
     
   </entry>
   
   <entry>
     <title>California Roadtrip</title>
-    <link href="http://eric.jain.name/2012/03/24/california-roadtrip/"/>
-    <id>http://eric.jain.name/2012/03/24/california-roadtrip/</id>
+    <link href="https://eric.jain.name/2012/03/24/california-roadtrip/"/>
+    <id>https://eric.jain.name/2012/03/24/california-roadtrip/</id>
     <published>2012-03-24T07:00:00.000Z</published>
     <updated>2017-02-25T06:52:50.659Z</updated>
     
@@ -492,7 +492,7 @@
     </summary>
     
     
-      <category term="Travel" scheme="http://eric.jain.name/tags/travel/"/>
+      <category term="Travel" scheme="https://eric.jain.name/tags/travel/"/>
     
   </entry>
   
