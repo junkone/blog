@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://eric.jain.name/"/>
-  <updated>2019-03-27T16:46:06.434Z</updated>
+  <updated>2019-07-17T23:06:35.269Z</updated>
   <id>https://eric.jain.name/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Sous-Vide Cooking</title>
+    <link href="https://eric.jain.name/2019/07/17/sous-vide-cooking/"/>
+    <id>https://eric.jain.name/2019/07/17/sous-vide-cooking/</id>
+    <published>2019-07-17T07:00:00.000Z</published>
+    <updated>2019-07-17T23:06:35.269Z</updated>
+    
+    <content type="html"><![CDATA[<p>Started using an <a href="https://anovaculinary.com/nano/">Anova Nano</a> sous-vide cooker earlier this year. The device is small enough to fit inside some of our pots, but we ended up getting a Rubbermaid 5qt container for convenience. Food goes inside Ziploc freezer bags. Meat can look ugly after cooking, and has to be seared briefly. Can cook frozen food without unthawing it first, just need to add an hour or so to the cooking time. Cooking could be controlled from an app, but setting the temperature on the device directly seems quicker and simpler.</p><p>Settled on the following temperatures, to get (subjectively) perfect results every time:</p><ul><li><strong>New York Steak.</strong> 1h+ @ 54°C.</li><li><strong>Pork Tenderloin.</strong> 1h+ @ 60°C.</li><li><strong>Chicken Breast.</strong> 2h+ @ 62°C.</li><li><strong>Duck Breast.</strong> 1h+ @ 62°C, and sear for 5min on the skin-side.</li><li><strong>Salmon.</strong> 30min @ 49°C (wild, low-fat), 52°C (farmed, high-fat). Must brine prior to cooking, and must remove once cooked. Gets very flaky, which makes searing difficult. Probably only worthwhile for thick pieces.</li></ul><p>Some things don’t seem to be worth the trouble:</p><ul><li><strong>Carrots.</strong> 1h+ @ 84°C. Not noticeably better than steamed.</li><li><strong>Sausages.</strong> 45min @ 66°C. Not noticeably better than broiled.</li><li><strong>Eggs.</strong> Can’t get the whites to solidify before the yolk, at any temperature.</li></ul><p>More experimentation TBD…</p><p><img src="anova-nano.jfif" alt=""></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Started using an &lt;a href=&quot;https://anovaculinary.com/nano/&quot;&gt;Anova Nano&lt;/a&gt; sous-vide cooker earlier this year. The device is small enough 
+      
+    
+    </summary>
+    
+    
+      <category term="Recipe" scheme="https://eric.jain.name/tags/recipe/"/>
+    
+  </entry>
   
   <entry>
     <title>Tracking Blood Pressure</title>
@@ -254,29 +277,6 @@
   </entry>
   
   <entry>
-    <title>Smoothies</title>
-    <link href="https://eric.jain.name/2017/01/06/smoothies/"/>
-    <id>https://eric.jain.name/2017/01/06/smoothies/</id>
-    <published>2017-01-06T08:00:00.000Z</published>
-    <updated>2019-03-23T17:27:30.594Z</updated>
-    
-    <content type="html"><![CDATA[<p>Upgraded my breakfast from cereal with yoghurt to “smoothie bowls” last year. After a lot of experimenting, here’s what I’ve settled on (for now):</p><p><img src="ingredients.jpg" alt=""></p><ol><li>1 cup yoghurt</li><li>1 tsp spirulina</li><li>1 tsp chia seeds</li><li>2 tsp golden flaxseed meal</li><li>1 cup frozen fruit (mango, pineapple, strawberry, cranberry, blueberry, banana)</li><li>1 leaf collard green and lacinato kale</li></ol><p>I <a href="https://www.nutribulletpro.com/">blend this</a> for just under a minute, sprinkle some granola on top, and this is the result:</p><p><img src="bowl.jpg" alt=""></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;Upgraded my breakfast from cereal with yoghurt to “smoothie bowls” last year. After a lot of experimenting, here’s what I’ve settled on (
-      
-    
-    </summary>
-    
-    
-      <category term="Recipe" scheme="https://eric.jain.name/tags/recipe/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Protein Shakes</title>
     <link href="https://eric.jain.name/2017/01/06/protein-shakes/"/>
     <id>https://eric.jain.name/2017/01/06/protein-shakes/</id>
@@ -293,6 +293,29 @@
 &lt;p&gt;&lt;img src=&quot;ingredients.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;1 cup milk (or ran
+      
+    
+    </summary>
+    
+    
+      <category term="Recipe" scheme="https://eric.jain.name/tags/recipe/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Smoothies</title>
+    <link href="https://eric.jain.name/2017/01/06/smoothies/"/>
+    <id>https://eric.jain.name/2017/01/06/smoothies/</id>
+    <published>2017-01-06T08:00:00.000Z</published>
+    <updated>2019-03-23T17:27:30.594Z</updated>
+    
+    <content type="html"><![CDATA[<p>Upgraded my breakfast from cereal with yoghurt to “smoothie bowls” last year. After a lot of experimenting, here’s what I’ve settled on (for now):</p><p><img src="ingredients.jpg" alt=""></p><ol><li>1 cup yoghurt</li><li>1 tsp spirulina</li><li>1 tsp chia seeds</li><li>2 tsp golden flaxseed meal</li><li>1 cup frozen fruit (mango, pineapple, strawberry, cranberry, blueberry, banana)</li><li>1 leaf collard green and lacinato kale</li></ol><p>I <a href="https://www.nutribulletpro.com/">blend this</a> for just under a minute, sprinkle some granola on top, and this is the result:</p><p><img src="bowl.jpg" alt=""></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Upgraded my breakfast from cereal with yoghurt to “smoothie bowls” last year. After a lot of experimenting, here’s what I’ve settled on (
       
     
     </summary>
@@ -470,29 +493,6 @@
       <category term="Programming" scheme="https://eric.jain.name/tags/programming/"/>
     
       <category term="Review" scheme="https://eric.jain.name/tags/review/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>California Roadtrip</title>
-    <link href="https://eric.jain.name/2012/03/24/california-roadtrip/"/>
-    <id>https://eric.jain.name/2012/03/24/california-roadtrip/</id>
-    <published>2012-03-24T07:00:00.000Z</published>
-    <updated>2017-02-25T06:52:50.659Z</updated>
-    
-    <content type="html"><![CDATA[<p>Here’s a map with tracks, waypoints and links to photo albums from a one-week trip from Los Angeles to San Francisco and back (March 15–22).</p><iframe src="map.html" height="600" width="550"></iframe>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;Here’s a map with tracks, waypoints and links to photo albums from a one-week trip from Los Angeles to San Francisco and back (March 15–2
-      
-    
-    </summary>
-    
-    
-      <category term="Travel" scheme="https://eric.jain.name/tags/travel/"/>
     
   </entry>
   
