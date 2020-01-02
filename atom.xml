@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://eric.jain.name/"/>
-  <updated>2019-07-17T23:06:35.269Z</updated>
+  <updated>2020-01-02T20:41:05.184Z</updated>
   <id>https://eric.jain.name/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>10 Years of Tracklogs</title>
+    <link href="https://eric.jain.name/2019/12/31/tracklogs/"/>
+    <id>https://eric.jain.name/2019/12/31/tracklogs/</id>
+    <published>2019-12-31T08:00:00.000Z</published>
+    <updated>2020-01-02T20:41:05.184Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="2010-2019.png" alt="2010-2019"></p><p>This map shows every tracklog I recorded while driving and hiking around the Pacific Northwest over the past ten years. The blue tracks were recorded while driving, and the orange tracks while hiking, paddling, or skiing.</p><h2 id="How"><a href="#How" class="headerlink" title="How?"></a>How?</h2><p>Currently, I use a <a href="https://buy.garmin.com/en-US/US/p/63349">Garmin Oregon 450</a> to record most of the outdoor activities, and <a href="https://automatic.com/">Automatic</a> for driving. Using a phone for tracking is still too much of a trade-off between draining the battery and accuracy for me, especially for longer activities.</p><p>Automatic exports spreadsheets, from which <a href="https://gist.github.com/ejain/14f36c114144b8001e5bfd725ee8681d">GPX files can be extracted</a>. Together with the GPX files copied off the Garmin device, these files can be <a href="https://gist.github.com/ejain/c775d156e79cac872226f68d6cf16d53">converted to GeoJSON</a>, which can be imported into and visualized in <a href="https://public.tableau.com/">Tableau Public</a>.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;2010-2019.png&quot; alt=&quot;2010-2019&quot;&gt;&lt;/p&gt;
+&lt;p&gt;This map shows every tracklog I recorded while driving and hiking around the Pacific Nor
+      
+    
+    </summary>
+    
+    
+      <category term="Quantified Self" scheme="https://eric.jain.name/tags/quantified-self/"/>
+    
+  </entry>
   
   <entry>
     <title>Sous-Vide Cooking</title>
@@ -277,29 +301,6 @@
   </entry>
   
   <entry>
-    <title>Smoothies</title>
-    <link href="https://eric.jain.name/2017/01/06/smoothies/"/>
-    <id>https://eric.jain.name/2017/01/06/smoothies/</id>
-    <published>2017-01-06T08:00:00.000Z</published>
-    <updated>2019-03-23T17:27:30.594Z</updated>
-    
-    <content type="html"><![CDATA[<p>Upgraded my breakfast from cereal with yoghurt to “smoothie bowls” last year. After a lot of experimenting, here’s what I’ve settled on (for now):</p><p><img src="ingredients.jpg" alt=""></p><ol><li>1 cup yoghurt</li><li>1 tsp spirulina</li><li>1 tsp chia seeds</li><li>2 tsp golden flaxseed meal</li><li>1 cup frozen fruit (mango, pineapple, strawberry, cranberry, blueberry, banana)</li><li>1 leaf collard green and lacinato kale</li></ol><p>I <a href="https://www.nutribulletpro.com/">blend this</a> for just under a minute, sprinkle some granola on top, and this is the result:</p><p><img src="bowl.jpg" alt=""></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;Upgraded my breakfast from cereal with yoghurt to “smoothie bowls” last year. After a lot of experimenting, here’s what I’ve settled on (
-      
-    
-    </summary>
-    
-    
-      <category term="Recipe" scheme="https://eric.jain.name/tags/recipe/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Protein Shakes</title>
     <link href="https://eric.jain.name/2017/01/06/protein-shakes/"/>
     <id>https://eric.jain.name/2017/01/06/protein-shakes/</id>
@@ -316,6 +317,29 @@
 &lt;p&gt;&lt;img src=&quot;ingredients.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;1 cup milk (or ran
+      
+    
+    </summary>
+    
+    
+      <category term="Recipe" scheme="https://eric.jain.name/tags/recipe/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Smoothies</title>
+    <link href="https://eric.jain.name/2017/01/06/smoothies/"/>
+    <id>https://eric.jain.name/2017/01/06/smoothies/</id>
+    <published>2017-01-06T08:00:00.000Z</published>
+    <updated>2019-03-23T17:27:30.594Z</updated>
+    
+    <content type="html"><![CDATA[<p>Upgraded my breakfast from cereal with yoghurt to “smoothie bowls” last year. After a lot of experimenting, here’s what I’ve settled on (for now):</p><p><img src="ingredients.jpg" alt=""></p><ol><li>1 cup yoghurt</li><li>1 tsp spirulina</li><li>1 tsp chia seeds</li><li>2 tsp golden flaxseed meal</li><li>1 cup frozen fruit (mango, pineapple, strawberry, cranberry, blueberry, banana)</li><li>1 leaf collard green and lacinato kale</li></ol><p>I <a href="https://www.nutribulletpro.com/">blend this</a> for just under a minute, sprinkle some granola on top, and this is the result:</p><p><img src="bowl.jpg" alt=""></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Upgraded my breakfast from cereal with yoghurt to “smoothie bowls” last year. After a lot of experimenting, here’s what I’ve settled on (
       
     
     </summary>
@@ -467,32 +491,6 @@
       <category term="Humor" scheme="https://eric.jain.name/tags/humor/"/>
     
       <category term="Programming" scheme="https://eric.jain.name/tags/programming/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Lenovo Thinkpad T431s</title>
-    <link href="https://eric.jain.name/2013/07/05/lenovo-thinkpad-t431s/"/>
-    <id>https://eric.jain.name/2013/07/05/lenovo-thinkpad-t431s/</id>
-    <published>2013-07-05T07:00:00.000Z</published>
-    <updated>2017-02-28T08:18:02.991Z</updated>
-    
-    <content type="html"><![CDATA[<p>Got a Thinkpad T431s to replace my 3-year old T410s. Here are some random observations, after using the new laptop for a few weeks.</p><p><img src="T431s.jpg" alt="T431s"></p><p>The T431s feels much lighter than the T410s. The screen is a bit smaller (still 14”, but more elongated), and the T431s lacks a DVD reader/writer, but I won’t miss that to much. On the other hand I find the fingerprint reader (not faster than typing, but less awkward when typing in front of other people) and the memory card reader (can transfer pictures from a camera fast and without having to search for the right cable) quite useful.</p><p>I like the backlit keyboard better than the light on the previous models. I’m less happy about the random placement of the Home/End/PgUp/PgDn keys, which I use a lot. I wouldn’t mind if I could at least map Fn+Up to PgUp, Fn+Left to Home etc, but this does not appear to be possible (tried with KeyTweak). I also use the F keys a lot; these are now by default used to control volume, brightness etc. There is a FnLk, but that has to be reset after waking up from standby.</p><p>One of the nice things with Thinkpads is the ability to create custom configurations. I no longer care much about CPUs (Intel Core i7-3687U, 4M Cache, 2.00 GHz), but chose twice the RAM (8G RAM) that I had in the T410s. The disk is a 180GB SSD (would have chosen 250GB, if that had been an option). Had to spend some time removing unwanted trial applications (anti-virus, office), and the large recovery partition and local drivers (after creating a recovery USB drive).</p><p>The T431s appears to be much more quiet than the T410s. The T410s had some weird screeching sounds (a known problem with some chipset used in that machine), and was prone to overheating, especially when using the “discrete” ATI graphics card. The “switchable graphics” setup is no longer an option, but the integrated Intel HD Graphics 4000 is now powerful enough for me.</p><p>The large, smooth trackpad on the T431s is much more pleasant to use than the rough trackpad on the T410s with its poorly defined borders. The trackpad does rattle and feel a bit cheap when depressing it, but I prefer to click by tapping lightly anyway. Should just glue it in place :-)</p><p>The DisplayPort is gone, replaced with a (much more common) Mini-DisplayPort. There’s still a VGA port, too. All ports are now on the sides. The T431s still works with the Mini Dock Series 3, using a small (included) piece of plastic to help guide the laptop into position.</p><p>The power adapter has been shrunk a bit, which is nice. The power plug was changed as well: It’s no longer round, but looks like (and could be confused with) a USB plug.</p><p>The battery life isn’t very impressive, but I seem to get at least 3 hours when using wifi and a reasonable screen brightness. Also, the contrast and brightness of the screen are rather poor. This would be an issue, if I didn’t have the laptop connected to an external monitor most of the time.</p><p>Like with previous Thinkpads, the build quality looks good. There is a new hinge design; I’m curious to see how fast the hinges wear out. The hinges on the T410s were a weak spot, wearing out after only a year or so (compared to the hinges on the T42p, which didn’t show any signs of wear even after several years).</p><p>All in all, the T431s has been a worthwhile upgrade for me. I’ll keep this post updated…</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;Got a Thinkpad T431s to replace my 3-year old T410s. Here are some random observations, after using the new laptop for a few weeks.&lt;/p&gt;
-&lt;
-      
-    
-    </summary>
-    
-    
-      <category term="Programming" scheme="https://eric.jain.name/tags/programming/"/>
-    
-      <category term="Review" scheme="https://eric.jain.name/tags/review/"/>
     
   </entry>
   
